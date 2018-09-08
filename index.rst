@@ -1,12 +1,11 @@
 .. title: Research
-.. slug: research
+.. slug: index
 .. date: 2018-09-06 05:53:29 UTC+11:00
 .. tags:
 .. category:
 .. link:
 .. description:
 .. hidetitle: True
-.. include:: pages/research.rst
 
 Working Papers
 ~~~~~~~~~~~~~~

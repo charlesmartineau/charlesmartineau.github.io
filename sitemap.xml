@@ -7,38 +7,38 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://www.charlesmartineau.com/</loc>
-  <lastmod>2018-09-08T00:29:00Z</lastmod>
+  <lastmod>2018-09-08T02:53:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.charlesmartineau.com/about/</loc>
+  <lastmod>2018-09-08T02:43:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.charlesmartineau.com/archive.html</loc>
-  <lastmod>2018-09-07T18:00:00Z</lastmod>
+  <lastmod>2018-09-08T02:52:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.charlesmartineau.com/blog/</loc>
+  <lastmod>2018-09-08T02:52:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.charlesmartineau.com/categories/</loc>
-  <lastmod>2018-09-07T00:37:00Z</lastmod>
+  <lastmod>2018-09-08T02:43:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.charlesmartineau.com/contact/</loc>
+  <lastmod>2018-09-08T02:43:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.charlesmartineau.com/galleries/</loc>
-  <lastmod>2018-09-07T00:37:00Z</lastmod>
+  <lastmod>2018-09-08T02:43:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.charlesmartineau.com/listings/</loc>
-  <lastmod>2018-09-07T00:37:00Z</lastmod>
+  <lastmod>2018-09-08T02:43:00Z</lastmod>
  </url>
  <url>
-  <loc>https://www.charlesmartineau.com/pages/</loc>
-  <lastmod>2018-09-07T19:16:00Z</lastmod>
- </url>
- <url>
-  <loc>https://www.charlesmartineau.com/pages/about/</loc>
-  <lastmod>2018-09-07T03:43:00Z</lastmod>
- </url>
- <url>
-  <loc>https://www.charlesmartineau.com/pages/contact/</loc>
-  <lastmod>2018-09-07T03:45:00Z</lastmod>
- </url>
- <url>
-  <loc>https://www.charlesmartineau.com/pages/research/</loc>
-  <lastmod>2018-09-07T03:08:00Z</lastmod>
+  <loc>https://www.charlesmartineau.com/research/</loc>
+  <lastmod>2018-09-08T02:43:00Z</lastmod>
  </url>
 </urlset>
