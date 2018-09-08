@@ -11,12 +11,9 @@
 
 .. container::
 
-    .. class:: col-sm-4
+  .. raw:: html
 
-
-        .. raw:: html
-
-            <p><a href="https://www.dropbox.com/s/32ks0b17b31yqfy/cv_2018_04.pdf?dl=0" class="btn btn-default btn-lg btn-block">Resume (CV)</a></p>
+    <p><a href="https://www.dropbox.com/s/32ks0b17b31yqfy/cv_2018_04.pdf?dl=0" class="btn btn-default btn-lg btn-block">Resume (CV)</a></p>
 
 
 
@@ -29,3 +26,7 @@ I joined University of Toronto in September 2011 as assistant finance professor 
 Research interests
 ------------------
 Empirical asset pricing with emphasis on information economics and market microstructure.
+
+.. raw:: html
+
+  <li><i class="fa fa-fw fa-copy" aria-hidden="true"></i> <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1789818">[My SSRN page]</a></li>

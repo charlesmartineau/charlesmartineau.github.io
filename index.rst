@@ -40,7 +40,7 @@ With `Oliver Boguth <http://www.public.asu.edu/~oboguth/>`__ and
 Work in Progress
 ~~~~~~~~~~~~~~~~
 
-**Can Trading Distort Price Discovery? Evidence from FOMC Announcements**
+**1. Can Trading Distort Price Discovery? Evidence from FOMC Announcements**
 
 With `Oliver Boguth <http://www.public.asu.edu/~oboguth/>`__ and
 `Vincent Gregoire <http://www.vincentgregoire.com>`__
