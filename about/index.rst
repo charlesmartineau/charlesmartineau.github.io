@@ -15,8 +15,8 @@
 
     <p><a href="https://www.dropbox.com/s/32ks0b17b31yqfy/cv_2018_04.pdf?dl=0" class="btn btn-default btn-lg btn-block">Resume (CV)</a></p>
 
-
-
+.. image:: ../photo.jpg
+    :alt: Charles Martineau
 
 About
 -----
