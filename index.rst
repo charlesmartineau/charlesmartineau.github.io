@@ -20,11 +20,11 @@ With `Vincent Gregoire <http://www.vincentgregoire.com>`__ [`Available on SSRN <
 
 **3. Media Attention and the Stock Market**
 
-With `Adlai Fisher <https://www.sauder.ubc.ca/Faculty/People/Faculty_Members/Fisher_Adlai>`__ and `Jinfei Sheng <https://merage.uci.edu/research-faculty/faculty-directory/Jinfei-Sheng.html>`__ [`Available on SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2703978>`__] [`Internet appendix <https://www.dropbox.com/s/2sicp3qb9t1xg7o/MAI_Internet_Appendix_v6.pdf?dl=0>`__]
+With `Adlai Fisher <https://www.sauder.ubc.ca/Faculty/People/Faculty_Members/Fisher_Adlai>`__ and `Jinfei Sheng <https://merage.uci.edu/research-faculty/faculty-directory/Jinfei-Sheng.html>`__ [`Available on SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2703978>`__] [`Internet appendix <https://www.dropbox.com/s/3pt0c3pbynzcyk5/MAI_Internet_Appendix_v6.pdf?dl=0>`__]
 
 **4. The CAPM Holds**
 
-With `Michael Hasler <http://www.rotman.utoronto.ca/FacultyAndResearch/Faculty/FacultyBios/Hasler.aspx>`__ [`First draft <https://www.dropbox.com/s/1e1a26cx94h50ot/capm.pdf?dl=0>`__] [`Internet appendix <https://www.dropbox.com/s/5x507cdm2y707tk/Internet_Appendix.pdf?dl=0>`__]
+With `Michael Hasler <http://www.rotman.utoronto.ca/FacultyAndResearch/Faculty/FacultyBios/Hasler.aspx>`__ [`First draft <https://www.dropbox.com/s/fp9ejicb5aqdquq/capm.pdf?dl=0>`__] [`Internet appendix <https://www.dropbox.com/s/xjg6teuvhkm0md3/Internet_Appendix.pdf?dl=0>`__]
 
 
 Publication
