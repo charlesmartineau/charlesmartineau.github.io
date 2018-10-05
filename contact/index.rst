@@ -11,4 +11,4 @@
 .. raw:: html
 
   <li><i class="fa fa-fw fa-at" aria-hidden="true"></i> <a href='mailto:charlesmartineau@utoronto.ca'>charlesmartineau@utoronto.ca</a></li>
-  <li><i class="fa fa-fw fa-envelope" aria-hidden="true"></i>  105 RM #433, St-George, Toronto (Ontario) Canada M5S 1J7</li>
+  <li><i class="fa fa-fw fa-envelope" aria-hidden="true"></i>  105 St-George RM #433, Toronto, Ontario, Canada M5S 3E6</li>
