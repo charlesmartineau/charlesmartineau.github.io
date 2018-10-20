@@ -36,7 +36,7 @@ With `Oliver Boguth <http://www.public.asu.edu/~oboguth/>`__ and
 `Vincent Gregoire <http://www.vincentgregoire.com>`__
 [`JFQA <https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/article/shaping-expectations-and-coordinating-attention-the-unintended-consequences-of-fomc-press-conferences/16DDD90630BA52EB81CCD88171998513>`__]
 [`SSRN <http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2698477>`__]
-[`Internet appendix <www.vincentgregoire.com/research-files/FOMC_PC_InternetAppendix.pdf>`__]
+[`Internet appendix <../FOMC_InternetAppendix.pdf>`__]
 
 *Note:* From January 2019, the Chairman of the Federal Reserve will `now hold a press conference after each meeting <https://www.cnbc.com/2018/06/13/feds-powell-says-he-will-begin-press-conferences-following-each-meeting-starting-in-january.html>`__. A postscript at the end of the paper addresses this point.
 
