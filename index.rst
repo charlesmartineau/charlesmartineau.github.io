@@ -14,9 +14,9 @@ Working papers
 
 With `Vincent Gregoire <http://www.vincentgregoire.com>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3060094>`__] [`Internet appendix <https://www.dropbox.com/s/bf4wcx5q4vx5eal/After_Hours_Appendix_v3.pdf?dl=0>`__]
 
-**2. The Evolution of Market Price Efficiency Around Earnings News**
+**2. The Evolution of Market Price Efficiency Around Earnings News** (New update: Nov. 2018)
 
-[`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3111607>`__] [`Internet appendix <https://www.dropbox.com/s/f7w1qzjc2cgl4vg/Internet_Appendix_v1.pdf?dl=0>`__]
+[`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3111607>`__] [`Internet appendix <https://www.dropbox.com/s/bz22s20o905lchs/Internet_Appendix_v1.pdf?dl=0>`__]
 
 **3. Media Attention and the Stock Market**
 
