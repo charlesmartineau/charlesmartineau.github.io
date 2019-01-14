@@ -14,7 +14,7 @@ Working papers
 
 With `Vincent Gregoire <http://www.vincentgregoire.com>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3060094>`__] [`Internet appendix <https://www.dropbox.com/s/bf4wcx5q4vx5eal/After_Hours_Appendix_v3.pdf?dl=0>`__]
 
-**2. The Evolution of Market Price Efficiency Around Earnings News** (New update: Nov. 2018)
+**2. The Evolution of Financial Market Efficiency: Evidence from Earnings Announcements** (New update: Jan. 2019)
 
 [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3111607>`__] [`Internet appendix <https://www.dropbox.com/s/bz22s20o905lchs/Internet_Appendix_v1.pdf?dl=0>`__]
 
@@ -43,7 +43,7 @@ With `Oliver Boguth <http://www.public.asu.edu/~oboguth/>`__ and
 Work in progress
 ~~~~~~~~~~~~~~~~
 
-**1. Can Trading Distort Price Discovery? Evidence from FOMC Announcements**
+**1. Price Pressure and Efficiency on FOMC Announcements**
 
 With `Oliver Boguth <http://www.public.asu.edu/~oboguth/>`__ and
 `Vincent Gregoire <http://www.vincentgregoire.com>`__
