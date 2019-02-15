@@ -16,7 +16,7 @@ With `Vincent Gregoire <http://www.vincentgregoire.com>`__ [`SSRN <https://paper
 
 **2. The Evolution of Financial Market Efficiency: Evidence from Earnings Announcements** (New update: Jan. 2019)
 
-[`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3111607>`__] [`Internet appendix <https://www.dropbox.com/s/bz22s20o905lchs/Internet_Appendix_v1.pdf?dl=0>`__]
+[`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3111607>`__] [`Internet appendix <../Internet_Appendix_v1.pdf>`__]
 
 **3. Macroeconomic Attention and the Stock Market**
 
