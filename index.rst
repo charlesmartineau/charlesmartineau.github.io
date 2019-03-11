@@ -26,6 +26,13 @@ With `Adlai Fisher <https://www.sauder.ubc.ca/Faculty/People/Faculty_Members/Fis
 
 With `Michael Hasler <http://www.rotman.utoronto.ca/FacultyAndResearch/Faculty/FacultyBios/Hasler.aspx>`__ [`First draft <../capm.pdf>`__] [`Internet appendix <../capm_Internet_Appendix.pdf>`__]
 
+**5. Price Pressure and Efficiency on FOMC Announcements**
+
+[`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3350687>`__] [`Internet appendix <../FOMC_PriceDiscoveryInternetAppendix.pdf>`__]
+
+With `Oliver Boguth <http://www.public.asu.edu/~oboguth/>`__ and
+`Vincent Gregoire <http://www.vincentgregoire.com>`__
+
 
 Publication
 ~~~~~~~~~~~
@@ -39,11 +46,3 @@ With `Oliver Boguth <http://www.public.asu.edu/~oboguth/>`__ and
 [`Internet appendix <../FOMC_InternetAppendix.pdf>`__]
 
 *Note:* From January 2019, the Chairman of the Federal Reserve will `now hold a press conference after each meeting <https://www.cnbc.com/2018/06/13/feds-powell-says-he-will-begin-press-conferences-following-each-meeting-starting-in-january.html>`__. A postscript at the end of the paper addresses this point.
-
-Work in progress
-~~~~~~~~~~~~~~~~
-
-**1. Price Pressure and Efficiency on FOMC Announcements**
-
-With `Oliver Boguth <http://www.public.asu.edu/~oboguth/>`__ and
-`Vincent Gregoire <http://www.vincentgregoire.com>`__
