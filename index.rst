@@ -24,13 +24,18 @@ With `Adlai Fisher <https://www.sauder.ubc.ca/Faculty/People/Faculty_Members/Fis
 
 **4. The CAPM Holds**
 
-With `Michael Hasler <http://www.rotman.utoronto.ca/FacultyAndResearch/Faculty/FacultyBios/Hasler.aspx>`__ [`First draft <../capm.pdf>`__] [`Internet appendix <../capm_Internet_Appendix.pdf>`__]
+With `Michael Hasler <http://www.rotman.utoronto.ca/FacultyAndResearch/Faculty/FacultyBios/Hasler.aspx>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3353903>`__] [`Internet appendix <../capm_Internet_Appendix.pdf>`__]
 
 **5. Price Pressure and Efficiency on FOMC Announcements**
 
 [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3350687>`__] [`Internet appendix <../FOMC_PriceDiscoveryInternetAppendix.pdf>`__]
 
 With `Oliver Boguth <http://www.public.asu.edu/~oboguth/>`__ and
+`Vincent Gregoire <http://www.vincentgregoire.com>`__
+
+**6. Retail Insider Trading and Market Price Efficiency: Evidence from Hacked Earnings News**
+
+With `Pat Akey <https://www.patakeyfinance.com/>`__ and
 `Vincent Gregoire <http://www.vincentgregoire.com>`__
 
 
