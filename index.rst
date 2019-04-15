@@ -38,7 +38,7 @@ With `Oliver Boguth <http://www.public.asu.edu/~oboguth/>`__ and
 `Vincent Gregoire <http://www.vincentgregoire.com>`__
 
 **7. Retail Insider Trading and Market Price Efficiency: Evidence from Hacked Earnings News**
-*Preliminary draft - update comming soon*
+*Preliminary draft - update coming soon*
 
 With `Pat Akey <https://www.patakeyfinance.com/>`__ and
 `Vincent Gregoire <http://www.vincentgregoire.com>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3365024>`__]
