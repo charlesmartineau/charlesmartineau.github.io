@@ -26,17 +26,22 @@ With `Adlai Fisher <https://www.sauder.ubc.ca/Faculty/People/Faculty_Members/Fis
 
 With `Michael Hasler <http://www.rotman.utoronto.ca/FacultyAndResearch/Faculty/FacultyBios/Hasler.aspx>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3353903>`__] [`Internet appendix <../capm_Internet_Appendix.pdf>`__]
 
-**5. Price Pressure and Efficiency on FOMC Announcements**
+**5. Does the CAPM Predict Returns?**
+
+With `Michael Hasler <http://www.rotman.utoronto.ca/FacultyAndResearch/Faculty/FacultyBios/Hasler.aspx>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3368264>`__]
+
+**6. Price Pressure and Efficiency on FOMC Announcements**
 
 [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3350687>`__] [`Internet appendix <../FOMC_PriceDiscoveryInternetAppendix.pdf>`__]
 
 With `Oliver Boguth <http://www.public.asu.edu/~oboguth/>`__ and
 `Vincent Gregoire <http://www.vincentgregoire.com>`__
 
-**6. Retail Insider Trading and Market Price Efficiency: Evidence from Hacked Earnings News**
+**7. Retail Insider Trading and Market Price Efficiency: Evidence from Hacked Earnings News**
+*Preliminary draft - update comming soon*
 
 With `Pat Akey <https://www.patakeyfinance.com/>`__ and
-`Vincent Gregoire <http://www.vincentgregoire.com>`__
+`Vincent Gregoire <http://www.vincentgregoire.com>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3365024>`__]
 
 
 Publication
