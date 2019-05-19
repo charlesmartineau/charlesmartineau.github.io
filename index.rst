@@ -14,7 +14,7 @@ Working papers
 
 With `Vincent Gregoire <http://www.vincentgregoire.com>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3060094>`__] [`Internet appendix <https://www.dropbox.com/s/bf4wcx5q4vx5eal/After_Hours_Appendix_v3.pdf?dl=0>`__]
 
-**2. The Evolution of Financial Market Efficiency: Evidence from Earnings Announcements** (New update: Jan. 2019)
+**2. The Evolution of Financial Market Efficiency: Evidence from Earnings Announcements**
 
 [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3111607>`__] [`Internet appendix <../Internet_Appendix_v1.pdf>`__]
 
@@ -42,6 +42,10 @@ With `Oliver Boguth <http://www.public.asu.edu/~oboguth/>`__ and
 
 With `Pat Akey <https://www.patakeyfinance.com/>`__ and
 `Vincent Gregoire <http://www.vincentgregoire.com>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3365024>`__]
+
+**8. Crowded Stock Coverage**
+
+With `Marius Zoican <https://www.mariuszoican.org/>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3376162>`__]
 
 
 Publication
