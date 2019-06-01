@@ -22,9 +22,9 @@ With `Vincent Gregoire <http://www.vincentgregoire.com>`__ [`SSRN <https://paper
 
 With `Adlai Fisher <https://www.sauder.ubc.ca/Faculty/People/Faculty_Members/Fisher_Adlai>`__ and `Jinfei Sheng <https://merage.uci.edu/research-faculty/faculty-directory/Jinfei-Sheng.html>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2703978>`__] [`Internet appendix <https://www.dropbox.com/s/3pt0c3pbynzcyk5/MAI_Internet_Appendix_v6.pdf?dl=0>`__]
 
-**4. The CAPM Holds**
+**4. Testing the Dynamic CAPM**
 
-With `Michael Hasler <http://www.rotman.utoronto.ca/FacultyAndResearch/Faculty/FacultyBios/Hasler.aspx>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3353903>`__] [`Internet appendix <../capm_Internet_Appendix.pdf>`__]
+With `Michael Hasler <http://www.rotman.utoronto.ca/FacultyAndResearch/Faculty/FacultyBios/Hasler.aspx>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3353903>`__] 
 
 **5. Does the CAPM Predict Returns?**
 
@@ -43,7 +43,7 @@ With `Oliver Boguth <http://www.public.asu.edu/~oboguth/>`__ and
 With `Pat Akey <https://www.patakeyfinance.com/>`__ and
 `Vincent Gregoire <http://www.vincentgregoire.com>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3365024>`__]
 
-**8. Crowded Stock Coverage**
+**8. Crowded Analyst Coverage**
 
 With `Marius Zoican <https://www.mariuszoican.org/>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3376162>`__]
 
