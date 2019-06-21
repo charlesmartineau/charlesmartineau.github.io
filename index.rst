@@ -12,7 +12,7 @@ Working papers
 
 **1. How is Earnings News Transmitted to Stock Prices?**
 
-With `Vincent Gregoire <http://www.vincentgregoire.com>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3060094>`__] [`Internet appendix <https://www.dropbox.com/s/bf4wcx5q4vx5eal/After_Hours_Appendix_v3.pdf?dl=0>`__]
+With `Vincent Gregoire <http://www.vincentgregoire.com>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3060094>`__] [`Internet appendix <https://www.dropbox.com/s/9vjq9a2ge7vfoid/After_Hours_Appendix_v3.pdf?dl=0>`__]
 
 **2. The Evolution of Financial Market Efficiency: Evidence from Earnings Announcements**
 
@@ -37,8 +37,7 @@ With `Michael Hasler <http://www.rotman.utoronto.ca/FacultyAndResearch/Faculty/F
 With `Oliver Boguth <http://www.public.asu.edu/~oboguth/>`__ and
 `Vincent Gregoire <http://www.vincentgregoire.com>`__
 
-**7. Retail Insider Trading and Market Price Efficiency: Evidence from Hacked Earnings News**
-*Preliminary draft - update coming soon*
+**7. Price Revelation from Insider Trading: Evidence from Hacked Earnings News: Evidence from Hacked Earnings News**
 
 With `Pat Akey <https://www.patakeyfinance.com/>`__ and
 `Vincent Gregoire <http://www.vincentgregoire.com>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3365024>`__]
