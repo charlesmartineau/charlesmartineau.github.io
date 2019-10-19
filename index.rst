@@ -24,11 +24,11 @@ With `Adlai Fisher <https://www.sauder.ubc.ca/Faculty/People/Faculty_Members/Fis
 
 **4. Does the CAPM Hold? A New Perspective**
 
-With `Michael Hasler <http://www.rotman.utoronto.ca/FacultyAndResearch/Faculty/FacultyBios/Hasler.aspx>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3353903>`__]
+With `Michael Hasler <https://sites.google.com/view/michaelhasler/home>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3353903>`__]
 
 **5. Does the CAPM Predict Returns?**
 
-With `Michael Hasler <http://www.rotman.utoronto.ca/FacultyAndResearch/Faculty/FacultyBios/Hasler.aspx>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3368264>`__]
+With `Michael Hasler <https://sites.google.com/view/michaelhasler/home>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3368264>`__]
 
 **6. Price Pressure and Efficiency on FOMC Announcements**
 
