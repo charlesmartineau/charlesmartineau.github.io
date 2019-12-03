@@ -12,7 +12,7 @@ Working papers
 
 **1. How is Earnings News Transmitted to Stock Prices?** R&R Journal of Accounting and Economics
 
-With `Vincent Gregoire <http://www.vincentgregoire.com>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3060094>`__] [`Internet appendix <https://www.dropbox.com/s/9vjq9a2ge7vfoid/After_Hours_Appendix_v3.pdf?dl=0>`__]
+With `Vincent Gregoire <http://www.vincentgregoire.com>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3060094>`__] [`Internet appendix <https://www.dropbox.com/s/bgplisa46mxgg40/After_Hours_Appendix_v4.pdf?dl=0>`__]
 
 **2. The Evolution of Financial Market Efficiency: Evidence from Earnings Announcements**
 
@@ -22,7 +22,7 @@ With `Vincent Gregoire <http://www.vincentgregoire.com>`__ [`SSRN <https://paper
 
 With `Adlai Fisher <https://www.sauder.ubc.ca/Faculty/People/Faculty_Members/Fisher_Adlai>`__ and `Jinfei Sheng <https://merage.uci.edu/research-faculty/faculty-directory/Jinfei-Sheng.html>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2703978>`__] [`Internet appendix <https://www.dropbox.com/s/3pt0c3pbynzcyk5/MAI_Internet_Appendix_v6.pdf?dl=0>`__]
 
-**4. Does the CAPM Hold? A New Perspective**
+**4. Does the CAPM Hold? A Time-Series Perspective**
 
 With `Michael Hasler <https://sites.google.com/view/michaelhasler/home>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3353903>`__]
 
