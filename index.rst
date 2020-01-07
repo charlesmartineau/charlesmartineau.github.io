@@ -18,9 +18,9 @@ With `Vincent Gregoire <http://www.vincentgregoire.com>`__ [`SSRN <https://paper
 
 [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3111607>`__]
 
-**3. Macroeconomic Attention and the Stock Market**
+**3. Macroeconomic Attention: A State Variable for Announcement Risk Premia?**
 
-With `Adlai Fisher <https://www.sauder.ubc.ca/Faculty/People/Faculty_Members/Fisher_Adlai>`__ and `Jinfei Sheng <https://merage.uci.edu/research-faculty/faculty-directory/Jinfei-Sheng.html>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2703978>`__] [`Internet appendix <https://www.dropbox.com/s/3pt0c3pbynzcyk5/MAI_Internet_Appendix_v6.pdf?dl=0>`__]
+With `Adlai Fisher <https://www.sauder.ubc.ca/Faculty/People/Faculty_Members/Fisher_Adlai>`__ and `Jinfei Sheng <https://merage.uci.edu/research-faculty/faculty-directory/Jinfei-Sheng.html>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2703978>`__] [`Internet appendix <https://www.dropbox.com/s/m4ydz5bk98ca7w1/MAI_Internet_Appendix_v6.pdf?dl=0>`__]
 
 **4. Does the CAPM Hold? A Time-Series Perspective**
 
