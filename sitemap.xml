@@ -7,11 +7,15 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://www.charlesmartineau.com/</loc>
-  <lastmod>2020-03-18T16:09:00Z</lastmod>
+  <lastmod>2020-03-18T16:14:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.charlesmartineau.com/Python%20Code/</loc>
   <lastmod>2020-03-18T16:09:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.charlesmartineau.com/Python/</loc>
+  <lastmod>2020-03-18T16:14:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.charlesmartineau.com/about/</loc>
