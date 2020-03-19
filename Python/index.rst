@@ -1,5 +1,5 @@
 .. title: Python Code
-.. slug: Python
+.. slug: python
 .. date: 2018-09-06 23:42:59 UTC-04:00
 .. tags:
 .. category:
