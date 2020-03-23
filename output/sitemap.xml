@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://www.charlesmartineau.com/</loc>
-  <lastmod>2018-11-10T15:59:00Z</lastmod>
+  <lastmod>2020-03-23T04:24:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.charlesmartineau.com/about/</loc>
@@ -15,7 +15,7 @@
  </url>
  <url>
   <loc>https://www.charlesmartineau.com/archive.html</loc>
-  <lastmod>2018-09-08T02:56:00Z</lastmod>
+  <lastmod>2020-03-19T03:29:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.charlesmartineau.com/blog/</loc>
@@ -36,6 +36,10 @@
  <url>
   <loc>https://www.charlesmartineau.com/listings/</loc>
   <lastmod>2018-09-08T02:43:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.charlesmartineau.com/python/</loc>
+  <lastmod>2020-03-23T04:24:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.charlesmartineau.com/research/</loc>
