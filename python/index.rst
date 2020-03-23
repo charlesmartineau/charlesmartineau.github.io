@@ -15,6 +15,7 @@ Python MeatPy for ITCH 5.0
 The goal of this project is to provide a standard framework for processing and analyzing high-frequency financial data.
 
 MeatPy is a Python package that currently supports Nasdaq ITCH 5.0. It can easily be adapted to process event-time data from multiple financial exchanges and formats.
+
 To install MeatPy: **pip install meatpy**
 
 [`Documentation <https://meatpy.readthedocs.io/en/latest/>`__]
