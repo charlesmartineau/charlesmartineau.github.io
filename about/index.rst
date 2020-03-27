@@ -20,8 +20,7 @@
 
 About
 -----
-I joined University of Toronto in July 2017 as assistant finance professor with cross-appointment at UTSC Management and the Rotman School of Management.
-
+I joined University of Toronto in July 2017 as assistant professor of finance at the Department of Management, University of Toronto Scarborough with a cross-appointment at the Rotman School of Management.
 
 Research interests
 ------------------
