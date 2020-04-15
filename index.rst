@@ -22,7 +22,7 @@ With `Vincent Gregoire <http://www.vincentgregoire.com>`__ [`SSRN <https://paper
 
 With `Adlai Fisher <https://www.sauder.ubc.ca/Faculty/People/Faculty_Members/Fisher_Adlai>`__ and `Jinfei Sheng <https://merage.uci.edu/research-faculty/faculty-directory/Jinfei-Sheng.html>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2703978>`__] [`Internet appendix <https://www.dropbox.com/s/m4ydz5bk98ca7w1/MAI_Internet_Appendix_v6.pdf?dl=0>`__]
 
-**4. Does the CAPM Hold? A Time-Series Perspective**
+**4. The Time Series of CAPM-Implied Returns**
 
 With `Michael Hasler <https://sites.google.com/view/michaelhasler/home>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3353903>`__]
 
