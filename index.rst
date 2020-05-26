@@ -10,7 +10,7 @@
 Working papers
 ~~~~~~~~~~~~~~
 
-**1. How is Earnings News Transmitted to Stock Prices?** 
+**1. How is Earnings News Transmitted to Stock Prices?**
 
 With `Vincent Gregoire <http://www.vincentgregoire.com>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3060094>`__] [`Internet appendix <https://www.dropbox.com/s/bgplisa46mxgg40/After_Hours_Appendix_v4.pdf?dl=0>`__]
 
@@ -18,7 +18,7 @@ With `Vincent Gregoire <http://www.vincentgregoire.com>`__ [`SSRN <https://paper
 
 [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3111607>`__]
 
-**3. Macroeconomic Attention and Announcement Risk Premia**
+**3. Macroeconomic Attention and Announcement Risk Premia** R&R RFS 
 
 With `Adlai Fisher <https://www.sauder.ubc.ca/Faculty/People/Faculty_Members/Fisher_Adlai>`__ and `Jinfei Sheng <https://merage.uci.edu/research-faculty/faculty-directory/Jinfei-Sheng.html>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2703978>`__] [`Internet appendix <https://www.dropbox.com/s/m4ydz5bk98ca7w1/MAI_Internet_Appendix_v6.pdf?dl=0>`__]
 
