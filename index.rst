@@ -10,7 +10,7 @@
 Working papers
 ~~~~~~~~~~~~~~
 
-**1. How is Earnings News Transmitted to Stock Prices?**
+**1. How is Earnings News Transmitted to Stock Prices?** R&R JAR
 
 With `Vincent Gregoire <http://www.vincentgregoire.com>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3060094>`__] [`Internet appendix <https://www.dropbox.com/s/bgplisa46mxgg40/After_Hours_Appendix_v4.pdf?dl=0>`__]
 
