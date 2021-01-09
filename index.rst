@@ -28,7 +28,7 @@ Media coverage: `Bloomberg <https://www.bloomberg.com/news/articles/2019-04-22/t
 
 [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3111607>`__]
 
-**5. The Time Series of CAPM-Implied Returns**
+**5. Explaining the Failure of the Unconditional CAPM with the Conditional CAPM**
 
 With `Michael Hasler <https://sites.google.com/view/michaelhasler/home>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3353903>`__]
 
