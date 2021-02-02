@@ -24,7 +24,7 @@ With `Pat Akey <https://www.patakeyfinance.com/>`__ and
 `Vincent Gregoire <http://www.vincentgregoire.com>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3365024>`__]
 Media coverage: `Bloomberg <https://www.bloomberg.com/news/articles/2019-04-22/the-market-knew-about-the-press-release-hackers-before-the-cops>`__, `Columbia Law School Blog <http://clsbluesky.law.columbia.edu/2019/07/10/price-revelation-from-insider-trading-evidence-from-hacked-earnings-news/>`__
 
-**4. The Evolution of Financial Market Efficiency: Evidence from Earnings Announcements**
+**4. Are There (Still) Post-Earnings Announcement Drifts?**
 
 [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3111607>`__]
 
@@ -33,6 +33,7 @@ Media coverage: `Bloomberg <https://www.bloomberg.com/news/articles/2019-04-22/t
 With `Michael Hasler <https://sites.google.com/view/michaelhasler/home>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3353903>`__]
 
 **6. Does the CAPM Predict Returns?**
+
 With `Michael Hasler <https://sites.google.com/view/michaelhasler/home>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3368264>`__]
 
 **7. Investor Attention and Analyst Coverage**
