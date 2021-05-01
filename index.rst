@@ -28,7 +28,7 @@ Media coverage: `Bloomberg <https://www.bloomberg.com/news/articles/2019-04-22/t
 
 [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3111607>`__]
 
-**5. Explaining the Failure of the Unconditional CAPM with the Conditional CAPM**
+**5. Explaining the Failure of the Unconditional CAPM with the Conditional CAPM** R&R MS
 
 With `Michael Hasler <https://sites.google.com/view/michaelhasler/home>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3353903>`__]
 
@@ -52,7 +52,7 @@ With `Oliver Boguth <http://www.public.asu.edu/~oboguth/>`__ and
 Publication
 ~~~~~~~~~~~
 
-**1. Shaping Expectations and Coordinating Attention: The Unintended Consequences of FOMC Press Conferences**, *Journal of Financial and Quantitative Analysis, Forthcoming*
+**1. Shaping Expectations and Coordinating Attention: The Unintended Consequences of FOMC Press Conferences**, *Journal of Financial and Quantitative Analysis, 2019*
 
 With `Oliver Boguth <http://www.public.asu.edu/~oboguth/>`__ and
 `Vincent Gregoire <http://www.vincentgregoire.com>`__
