@@ -138,7 +138,8 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
        ("/", "Research"),
         ("/about/", "About"),
-         ("/contact/", "Contact")
+         ("/contact/", "Contact"),
+          ("/python/", "Python"),
     ),
 }
 
