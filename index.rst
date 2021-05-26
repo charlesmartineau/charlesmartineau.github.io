@@ -10,7 +10,7 @@
 Working papers
 ~~~~~~~~~~~~~~
 
-**1. How is Earnings News Transmitted to Stock Prices?** R&R JAR
+**1. How is Earnings News Transmitted to Stock Prices?** Conditionally Accepted - JAR
 
 With `Vincent Gregoire <http://www.vincentgregoire.com>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3060094>`__] [`Internet appendix <https://www.dropbox.com/s/bgplisa46mxgg40/After_Hours_Appendix_v4.pdf?dl=0>`__]
 
@@ -24,7 +24,7 @@ With `Pat Akey <https://www.patakeyfinance.com/>`__ and
 `Vincent Gregoire <http://www.vincentgregoire.com>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3365024>`__]
 Media coverage: `Bloomberg <https://www.bloomberg.com/news/articles/2019-04-22/the-market-knew-about-the-press-release-hackers-before-the-cops>`__, `Columbia Law School Blog <http://clsbluesky.law.columbia.edu/2019/07/10/price-revelation-from-insider-trading-evidence-from-hacked-earnings-news/>`__
 
-**4. Are There (Still) Post-Earnings Announcement Drifts?** R&R CFR
+**4. Are There (Still) Post-Earnings Announcement Drifts?** Conditionally Accepted - CFR
 
 [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3111607>`__]
 
@@ -36,7 +36,7 @@ With `Michael Hasler <https://sites.google.com/view/michaelhasler/home>`__ [`SSR
 
 With `Michael Hasler <https://sites.google.com/view/michaelhasler/home>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3368264>`__]
 
-**7. Investor Attention and Analyst Coverage**
+**7. Retail Trading and Analyst Coverage**
 
 With `Marius Zoican <https://www.mariuszoican.org/>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3376162>`__]
 
