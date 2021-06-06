@@ -24,24 +24,21 @@ With `Pat Akey <https://www.patakeyfinance.com/>`__ and
 `Vincent Gregoire <http://www.vincentgregoire.com>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3365024>`__]
 Media coverage: `Bloomberg <https://www.bloomberg.com/news/articles/2019-04-22/the-market-knew-about-the-press-release-hackers-before-the-cops>`__, `Columbia Law School Blog <http://clsbluesky.law.columbia.edu/2019/07/10/price-revelation-from-insider-trading-evidence-from-hacked-earnings-news/>`__
 
-**4. Are There (Still) Post-Earnings Announcement Drifts?** Conditionally Accepted - CFR
-
 [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3111607>`__]
 
-**5. Explaining the Failure of the Unconditional CAPM with the Conditional CAPM** R&R MS
+**4. Explaining the Failure of the Unconditional CAPM with the Conditional CAPM** R&R MS
 
 With `Michael Hasler <https://sites.google.com/view/michaelhasler/home>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3353903>`__]
 
-**6. Does the CAPM Predict Returns?**
+**5. Does the CAPM Predict Returns?**
 
 With `Michael Hasler <https://sites.google.com/view/michaelhasler/home>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3368264>`__]
 
-**7. Retail Trading and Analyst Coverage**
+**6. Retail Trading and Analyst Coverage**
 
 With `Marius Zoican <https://www.mariuszoican.org/>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3376162>`__]
 
-
-**8. Price Pressure and Efficiency on FOMC Announcements** (new version soon)
+**7. Price Pressure and Efficiency on FOMC Announcements** (new version soon)
 
 [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3350687>`__] [`Internet appendix <../FOMC_PriceDiscoveryInternetAppendix.pdf>`__]
 
@@ -52,7 +49,11 @@ With `Oliver Boguth <http://www.public.asu.edu/~oboguth/>`__ and
 Publication
 ~~~~~~~~~~~
 
-**1. Shaping Expectations and Coordinating Attention: The Unintended Consequences of FOMC Press Conferences**, *Journal of Financial and Quantitative Analysis, 2019*
+**1. Rest in Peace Post-Earnings Announcement Drift** *Critical Finance Review, forthcoming*
+[`CFR <https://cfr.pub/forthcoming/martineau2021rest.pdf>`__]
+[`Internet appendix <../CFR_Internet_Appendix_v1.pdf>`__]
+
+**2. Shaping Expectations and Coordinating Attention: The Unintended Consequences of FOMC Press Conferences**, *Journal of Financial and Quantitative Analysis, 2019*
 
 With `Oliver Boguth <http://www.public.asu.edu/~oboguth/>`__ and
 `Vincent Gregoire <http://www.vincentgregoire.com>`__
