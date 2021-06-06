@@ -1,4 +1,0 @@
-Sitemap: https://www.charlesmartineau.com/sitemapindex.xml
-
-User-Agent: *
-Host: www.charlesmartineau.com
