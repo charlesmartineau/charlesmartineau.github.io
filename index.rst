@@ -50,7 +50,7 @@ Publication
 ~~~~~~~~~~~
 
 **1. Rest in Peace Post-Earnings Announcement Drift** *Critical Finance Review, forthcoming*
-[`CFR <https://cfr.pub/forthcoming/martineau2021rest.pdf>`__]
+[`CFR <https://cfr.pub/forthcoming/papers/martineau2021rest.pdf>`__]
 [`Internet appendix <../CFR_Internet_Appendix_v1.pdf>`__]
 
 **2. Shaping Expectations and Coordinating Attention: The Unintended Consequences of FOMC Press Conferences**, *Journal of Financial and Quantitative Analysis, 2019*
