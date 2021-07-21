@@ -44,7 +44,7 @@ With `Oliver Boguth <http://www.public.asu.edu/~oboguth/>`__ and
 
 
 Publications
-~~~~~~~~~~~
+~~~~~~~~~~~~
 
 **1. How is Earnings News Transmitted to Stock Prices?** *Journal of Accounting Research, forthcoming*
 
