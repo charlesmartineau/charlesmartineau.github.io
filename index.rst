@@ -43,10 +43,10 @@ With `Oliver Boguth <http://www.public.asu.edu/~oboguth/>`__ and
 `Vincent Gregoire <http://www.vincentgregoire.com>`__
 
 
-Publication
+Publications
 ~~~~~~~~~~~
 
-**1. How is Earnings News Transmitted to Stock Prices?** *Journal of Accoutning Research, forthcoming*
+**1. How is Earnings News Transmitted to Stock Prices?** *Journal of Accounting Research, forthcoming*
 
 With `Vincent Gregoire <http://www.vincentgregoire.com>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3060094>`__] [`Internet appendix <https://www.dropbox.com/s/9od04fs4zwwk3v5/After_Hours_JAR_Internet_Appendix.pdf?dl=0>`__] [`Github <https://github.com/vgreg/earnings_news_jar>`__]
 
