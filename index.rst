@@ -31,7 +31,7 @@ With `Michael Hasler <https://sites.google.com/view/michaelhasler/home>`__ [`SSR
 
 With `Michael Hasler <https://sites.google.com/view/michaelhasler/home>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3368264>`__]
 
-**5. Retail Trading and Analyst Coverage**
+**5. Investor Attention and the Cross-Section of Analyst Coverage**
 
 With `Marius Zoican <https://www.mariuszoican.org/>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3376162>`__]
 
