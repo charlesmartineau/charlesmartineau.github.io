@@ -25,4 +25,4 @@ To install MeatPy: **pip install meatpy**
 MeatPy was created by Vincent Grégoire (HEC Montréal) and Charles Martineau (University of Toronto).
 Javad YaAli (Polytechnique Montréal) provided valuable research assistance on the project.
 
-Please cite *Gregoire, V. and Martineau, C. (2019) How is Earnings News Transmitted to Stock Prices?. Working Paper.* when referring to this package.
+Please cite *Gregoire, V. and Martineau, C. (2019) How is Earnings News Transmitted to Stock Prices?. Journal of Accounting Research* when referring to this package.
