@@ -15,7 +15,7 @@ Working papers
 
 With `Adlai Fisher <https://www.sauder.ubc.ca/Faculty/People/Faculty_Members/Fisher_Adlai>`__ and `Jinfei Sheng <https://merage.uci.edu/research-faculty/faculty-directory/Jinfei-Sheng.html>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2703978>`__] [`Internet appendix <https://www.dropbox.com/s/m4ydz5bk98ca7w1/MAI_Internet_Appendix_v6.pdf?dl=0>`__]
 
-**2. Price Revelation from Insider Trading: Evidence from Hacked Earnings News** R&R JFE
+**2. Price Revelation from Insider Trading: Evidence from Hacked Earnings News** Conditionally accepted *Journal of Financial Economics*
 
 With `Pat Akey <https://www.patakeyfinance.com/>`__ and
 `Vincent Gregoire <http://www.vincentgregoire.com>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3365024>`__]
