@@ -40,8 +40,6 @@ With `Pat Akey <https://www.patakeyfinance.com/>`__ and
 `Vincent Gregoire <http://www.vincentgregoire.com>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3365024>`__]
 Media coverage: `Bloomberg <https://www.bloomberg.com/news/articles/2019-04-22/the-market-knew-about-the-press-release-hackers-before-the-cops>`__, `Columbia Law School Blog <http://clsbluesky.law.columbia.edu/2019/07/10/price-revelation-from-insider-trading-evidence-from-hacked-earnings-news/>`__
 
-[`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3111607>`__]
-
 **2. Explaining the Failure of the Unconditional CAPM with the Conditional CAPM** *Management Science, forthcoming*
 
 With `Michael Hasler <https://sites.google.com/view/michaelhasler/home>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3353903>`__]
@@ -53,6 +51,7 @@ With `Vincent Gregoire <http://www.vincentgregoire.com>`__ [`JAR <https://online
 
 **4. Rest in Peace Post-Earnings Announcement Drift** *Critical Finance Review, forthcoming*
 [`CFR <https://cfr.pub/forthcoming/papers/martineau2021rest.pdf>`__]
+[`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3111607>`__]
 [`Internet appendix <../CFR_Internet_Appendix_v1.pdf>`__]
 
 **5. Shaping Expectations and Coordinating Attention: The Unintended Consequences of FOMC Press Conferences**, *Journal of Financial and Quantitative Analysis, 2019*
@@ -69,6 +68,7 @@ Other contributions to research
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **1. Non-Standard Errors** 
+
 Dreber, A., Menkveld, A. J., Holzmeister, F., Johannesson, M., Huber, J., Kirchler, M., ... & Lajaunie, Q.
 
 Working paper available on [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3961574>`__]
