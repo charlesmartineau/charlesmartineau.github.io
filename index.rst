@@ -15,7 +15,7 @@ Working papers
 
 With `Adlai Fisher <https://www.sauder.ubc.ca/Faculty/People/Faculty_Members/Fisher_Adlai>`__ and `Jinfei Sheng <https://merage.uci.edu/research-faculty/faculty-directory/Jinfei-Sheng.html>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2703978>`__] [`Internet appendix <https://www.dropbox.com/s/m4ydz5bk98ca7w1/MAI_Internet_Appendix_v6.pdf?dl=0>`__]
 
-**2. Does the CAPM Predict Returns?**
+**2. The CAPM Can Predict Returns**
 
 With `Michael Hasler <https://sites.google.com/view/michaelhasler/home>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3368264>`__]
 
