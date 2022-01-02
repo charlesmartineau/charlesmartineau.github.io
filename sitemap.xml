@@ -7,42 +7,46 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://www.charlesmartineau.com/</loc>
-  <lastmod>2021-06-06T00:44:00Z</lastmod>
+  <lastmod>2021-12-22T05:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.charlesmartineau.com/about/</loc>
-  <lastmod>2018-09-08T02:43:00Z</lastmod>
+  <lastmod>2021-12-21T03:59:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.charlesmartineau.com/archive.html</loc>
-  <lastmod>2021-01-09T22:12:00Z</lastmod>
+  <lastmod>2022-01-02T04:54:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.charlesmartineau.com/blog/</loc>
-  <lastmod>2018-09-08T02:52:00Z</lastmod>
+  <lastmod>2021-12-21T03:59:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.charlesmartineau.com/categories/</loc>
-  <lastmod>2018-09-08T02:43:00Z</lastmod>
+  <lastmod>2021-12-21T03:59:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.charlesmartineau.com/contact/</loc>
-  <lastmod>2018-09-08T02:43:00Z</lastmod>
+  <lastmod>2021-12-21T03:59:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.charlesmartineau.com/galleries/</loc>
-  <lastmod>2018-09-08T02:43:00Z</lastmod>
+  <lastmod>2021-12-21T03:59:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.charlesmartineau.com/listings/</loc>
-  <lastmod>2018-09-08T02:43:00Z</lastmod>
+  <lastmod>2021-12-21T03:59:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://www.charlesmartineau.com/python%20ITCH/</loc>
+  <lastmod>2021-12-22T05:13:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.charlesmartineau.com/python/</loc>
-  <lastmod>2020-03-23T04:24:00Z</lastmod>
+  <lastmod>2021-12-21T03:59:00Z</lastmod>
  </url>
  <url>
   <loc>https://www.charlesmartineau.com/research/</loc>
-  <lastmod>2020-06-09T07:18:00Z</lastmod>
+  <lastmod>2021-12-21T03:59:00Z</lastmod>
  </url>
 </urlset>

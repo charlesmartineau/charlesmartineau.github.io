@@ -1,5 +1,5 @@
-.. title: Python
-.. slug: python
+.. title: Python Code ITCH
+.. slug: python ITCH
 .. date: 2020-03-20 23:42:59 UTC-04:00
 .. tags:
 .. category:

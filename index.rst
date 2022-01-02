@@ -11,9 +11,9 @@ Working papers
 ~~~~~~~~~~~~~~
 
 
-**1. Macroeconomic Attention and Announcement Risk Premia** R&R RFS
+**1. Macroeconomic Attention and Announcement Risk Premia** Cond. Accepted RFS
 
-With `Adlai Fisher <https://www.sauder.ubc.ca/Faculty/People/Faculty_Members/Fisher_Adlai>`__ and `Jinfei Sheng <https://merage.uci.edu/research-faculty/faculty-directory/Jinfei-Sheng.html>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2703978>`__] [`Internet appendix <https://www.dropbox.com/s/m4ydz5bk98ca7w1/MAI_Internet_Appendix_v6.pdf?dl=0>`__]
+With `Adlai Fisher <https://www.sauder.ubc.ca/Faculty/People/Faculty_Members/Fisher_Adlai>`__ and `Jinfei Sheng <https://merage.uci.edu/research-faculty/faculty-directory/Jinfei-Sheng.html>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2703978>`__] [`Internet appendix <https://www.dropbox.com/s/sf4k8hi0ig8db69/MAI_Internet_Appendix_v7.pdf?dl=0>`__] [`MAI data <https://github.com/charlesmartineau/mai_rfs>`__]
 
 **2. The CAPM Can Predict Returns**
 
