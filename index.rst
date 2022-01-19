@@ -37,7 +37,7 @@ With `Adlai Fisher <https://www.sauder.ubc.ca/Faculty/People/Faculty_Members/Fis
 **2. Price Revelation from Insider Trading: Evidence from Hacked Earnings News** *Journal of Financial Economics, forthcoming*
 
 With `Pat Akey <https://www.patakeyfinance.com/>`__ and
-`Vincent Gregoire <http://www.vincentgregoire.com>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3365024>`__] [`SocArXiv <https://osf.io/preprints/socarxiv/qe6tu/>`__]
+`Vincent Gregoire <http://www.vincentgregoire.com>`__ [`JFE <https://www.sciencedirect.com/science/article/pii/S0304405X21005237?via%3Dihub>`__] [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3365024>`__] [`SocArXiv <https://osf.io/preprints/socarxiv/qe6tu/>`__]
 Media coverage: `Bloomberg <https://www.bloomberg.com/news/articles/2019-04-22/the-market-knew-about-the-press-release-hackers-before-the-cops>`__, `Columbia Law School Blog <http://clsbluesky.law.columbia.edu/2019/07/10/price-revelation-from-insider-trading-evidence-from-hacked-earnings-news/>`__
 
 **3. Explaining the Failure of the Unconditional CAPM with the Conditional CAPM** *Management Science, forthcoming*
