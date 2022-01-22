@@ -34,7 +34,7 @@ Publications
 With `Adlai Fisher <https://www.sauder.ubc.ca/Faculty/People/Faculty_Members/Fisher_Adlai>`__ and `Jinfei Sheng <https://merage.uci.edu/research-faculty/faculty-directory/Jinfei-Sheng.html>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2703978>`__] [`Internet appendix <https://www.dropbox.com/s/sf4k8hi0ig8db69/MAI_Internet_Appendix_v7.pdf?dl=0>`__] [`MAI data <https://github.com/charlesmartineau/mai_rfs>`__]
 
 
-**2. Price Revelation from Insider Trading: Evidence from Hacked Earnings News** *Journal of Financial Economics, forthcoming*
+**2. Price Revelation from Insider Trading: Evidence from Hacked Earnings News** *Journal of Financial Economics,* 143 (2022), 1162-1184
 
 With `Pat Akey <https://www.patakeyfinance.com/>`__ and
 `Vincent Gregoire <http://www.vincentgregoire.com>`__ [`JFE <https://www.sciencedirect.com/science/article/pii/S0304405X21005237?via%3Dihub>`__] [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3365024>`__] [`SocArXiv <https://osf.io/preprints/socarxiv/qe6tu/>`__]
@@ -55,7 +55,7 @@ With `Vincent Gregoire <http://www.vincentgregoire.com>`__ [`JAR <https://online
 [`SocArXiv <https://osf.io/preprints/socarxiv/z7k3p/>`__]
 [`Internet appendix <../CFR_Internet_Appendix_v1.pdf>`__]
 
-**6. Shaping Expectations and Coordinating Attention: The Unintended Consequences of FOMC Press Conferences**, *Journal of Financial and Quantitative Analysis, 2019*
+**6. Shaping Expectations and Coordinating Attention: The Unintended Consequences of FOMC Press Conferences**, *Journal of Financial and Quantitative Analysis,* 54 (2019), 2327-2353
 
 With `Oliver Boguth <http://www.public.asu.edu/~oboguth/>`__ and
 `Vincent Gregoire <http://www.vincentgregoire.com>`__
