@@ -44,7 +44,7 @@ Media coverage: `Bloomberg <https://www.bloomberg.com/news/articles/2019-04-22/t
 
 With `Michael Hasler <https://sites.google.com/view/michaelhasler/home>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3353903>`__]
 
-**4. How is Earnings News Transmitted to Stock Prices?** *Journal of Accounting Research, forthcoming*
+**4. How is Earnings News Transmitted to Stock Prices?** *Journal of Accounting Research, 60 (2022), 261-297*
 
 With `Vincent Gregoire <http://www.vincentgregoire.com>`__ [`JAR <https://onlinelibrary.wiley.com/doi/epdf/10.1111/1475-679X.12394>`__] [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3060094>`__] [`Internet appendix <https://www.dropbox.com/s/9od04fs4zwwk3v5/After_Hours_JAR_Internet_Appendix.pdf?dl=0>`__] [`Github <https://github.com/vgreg/earnings_news_jar>`__]
 
