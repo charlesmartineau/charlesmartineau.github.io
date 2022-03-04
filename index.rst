@@ -31,7 +31,7 @@ Publications
 
 **1. Macroeconomic Attention and Announcement Risk Premia** *Review of Financial Studies, forthcoming*
 
-With `Adlai Fisher <https://www.sauder.ubc.ca/Faculty/People/Faculty_Members/Fisher_Adlai>`__ and `Jinfei Sheng <https://merage.uci.edu/research-faculty/faculty-directory/Jinfei-Sheng.html>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2703978>`__] [`Internet appendix <https://www.dropbox.com/s/sf4k8hi0ig8db69/MAI_Internet_Appendix_v7.pdf?dl=0>`__] [`MAI data <https://github.com/charlesmartineau/mai_rfs>`__]
+With `Adlai Fisher <https://www.sauder.ubc.ca/Faculty/People/Faculty_Members/Fisher_Adlai>`__ and `Jinfei Sheng <https://merage.uci.edu/research-faculty/faculty-directory/Jinfei-Sheng.html>`__ [`RFS <https://academic.oup.com/rfs/advance-article/doi/10.1093/rfs/hhac011/6535733>`__] [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2703978>`__] [`Internet appendix <https://www.dropbox.com/s/sf4k8hi0ig8db69/MAI_Internet_Appendix_v7.pdf?dl=0>`__] [`MAI data <https://github.com/charlesmartineau/mai_rfs>`__]
 
 
 **2. Price Revelation from Insider Trading: Evidence from Hacked Earnings News** *Journal of Financial Economics,* 143 (2022), 1162-1184
