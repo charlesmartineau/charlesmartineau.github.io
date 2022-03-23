@@ -42,7 +42,7 @@ Media coverage: `Bloomberg <https://www.bloomberg.com/news/articles/2019-04-22/t
 
 **3. Explaining the Failure of the Unconditional CAPM with the Conditional CAPM** *Management Science, forthcoming*
 
-With `Michael Hasler <https://sites.google.com/view/michaelhasler/home>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3353903>`__]
+With `Michael Hasler <https://sites.google.com/view/michaelhasler/home>`__ [`MS <https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.4381>`__] [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3353903>`__] [`Internet Appendix <https://www.dropbox.com/s/wpk7995l3ituw29/capm_internet_appendix.pdf?dl=0>`__]
 
 **4. How is Earnings News Transmitted to Stock Prices?** *Journal of Accounting Research, 60 (2022), 261-297*
 
