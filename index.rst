@@ -25,6 +25,10 @@ With `Marius Zoican <https://www.mariuszoican.org/>`__ [`SSRN <https://papers.ss
 With `Oliver Boguth <http://www.public.asu.edu/~oboguth/>`__ and
 `Vincent Gregoire <http://www.vincentgregoire.com>`__
 
+**4. News Selection and its Implication to Financial Markets**
+
+`With Jordi Mondria <http://individual.utoronto.ca/jmondria>`__
+
 
 Publications
 ~~~~~~~~~~~~
