@@ -18,16 +18,16 @@ With `Michael Hasler <https://sites.google.com/view/michaelhasler/home>`__ [`SSR
 
 With `Marius Zoican <https://www.mariuszoican.org/>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3376162>`__]
 
-**3. Price Pressure and Efficiency on FOMC Announcements** (new version soon)
+**3. Noisy FOMC Returns** 
 
-[`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3350687>`__] [`Internet appendix <../FOMC_PriceDiscoveryInternetAppendix.pdf>`__]
+[`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4131740>`__]
 
 With `Oliver Boguth <http://www.public.asu.edu/~oboguth/>`__ and
 `Vincent Gregoire <http://www.vincentgregoire.com>`__
 
 **4. News Selection and its Implication to Financial Markets**
 
-`With Jordi Mondria <http://individual.utoronto.ca/jmondria>`__
+With `Jordi Mondria <http://individual.utoronto.ca/jmondria>`__
 
 
 Publications
