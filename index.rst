@@ -20,10 +20,8 @@ With `Marius Zoican <https://www.mariuszoican.org/>`__ [`SSRN <https://papers.ss
 
 **3. Noisy FOMC Returns** 
 
-[`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4131740>`__]
-
 With `Oliver Boguth <http://www.public.asu.edu/~oboguth/>`__ and
-`Vincent Gregoire <http://www.vincentgregoire.com>`__
+`Vincent Gregoire <http://www.vincentgregoire.com>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4131740>`__]
 
 **4. News Selection and its Implication to Financial Markets**
 
