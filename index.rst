@@ -10,11 +10,11 @@
 Working papers
 ~~~~~~~~~~~~~~
 
-**1. The CAPM Can Predict Returns**
+**1. Equity Return Prediction with ICAPM**
 
 With `Michael Hasler <https://sites.google.com/view/michaelhasler/home>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3368264>`__]
 
-**2. Investor Attention and the Cross-Section of Analyst Coverage**
+**2. Retail Trading and Analyst Coverage**
 
 With `Marius Zoican <https://www.mariuszoican.org/>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3376162>`__]
 
@@ -23,9 +23,9 @@ With `Marius Zoican <https://www.mariuszoican.org/>`__ [`SSRN <https://papers.ss
 With `Oliver Boguth <http://www.public.asu.edu/~oboguth/>`__ and
 `Vincent Gregoire <http://www.vincentgregoire.com>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4131740>`__] [`SocArXiv <https://osf.io/preprints/socarxiv/zurfk/>`__]
 
-**4. News Selection and its Implication to Financial Markets**
+**4. News Selection and Asset Pricing Implications**
 
-With `Jordi Mondria <http://individual.utoronto.ca/jmondria>`__
+With `Jordi Mondria <http://individual.utoronto.ca/jmondria>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4194851>`__] [`SocArXiv <https://osf.io/preprints/socarxiv/ame2f/>`__]
 
 
 Publications
