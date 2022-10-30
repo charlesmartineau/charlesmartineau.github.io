@@ -23,7 +23,7 @@ With `Marius Zoican <https://www.mariuszoican.org/>`__ [`SSRN <https://papers.ss
 With `Oliver Boguth <http://www.public.asu.edu/~oboguth/>`__ and
 `Vincent Gregoire <http://www.vincentgregoire.com>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4131740>`__] [`SocArXiv <https://osf.io/preprints/socarxiv/zurfk/>`__]
 
-**4. News Selection and Asset Pricing Implications**
+**4. News Selection and Asset Pricing**
 
 With `Jordi Mondria <http://individual.utoronto.ca/jmondria>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4194851>`__] [`SocArXiv <https://osf.io/preprints/socarxiv/ame2f/>`__]
 
@@ -31,7 +31,7 @@ With `Jordi Mondria <http://individual.utoronto.ca/jmondria>`__ [`SSRN <https://
 Publications
 ~~~~~~~~~~~~
 
-**1. Macroeconomic Attention and Announcement Risk Premia** *Review of Financial Studies, forthcoming*
+**1. Macroeconomic Attention and Announcement Risk Premia** *Review of Financial Studies,* 35 (2022), 5057-5093
 
 With `Adlai Fisher <https://www.sauder.ubc.ca/Faculty/People/Faculty_Members/Fisher_Adlai>`__ and `Jinfei Sheng <https://merage.uci.edu/research-faculty/faculty-directory/Jinfei-Sheng.html>`__ [`RFS <https://academic.oup.com/rfs/advance-article/doi/10.1093/rfs/hhac011/6535733>`__] [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2703978>`__] [`Internet appendix <https://www.dropbox.com/s/sf4k8hi0ig8db69/MAI_Internet_Appendix_v7.pdf?dl=0>`__] [`MAI data <https://github.com/charlesmartineau/mai_rfs>`__]
 
@@ -51,7 +51,7 @@ With `Michael Hasler <https://sites.google.com/view/michaelhasler/home>`__ [`MS 
 With `Vincent Gregoire <http://www.vincentgregoire.com>`__ [`JAR <https://onlinelibrary.wiley.com/doi/epdf/10.1111/1475-679X.12394>`__] [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3060094>`__] [`Internet appendix <https://www.dropbox.com/s/9od04fs4zwwk3v5/After_Hours_JAR_Internet_Appendix.pdf?dl=0>`__] [`Github <https://github.com/vgreg/earnings_news_jar>`__]
 
 
-**5. Rest in Peace Post-Earnings Announcement Drift** *Critical Finance Review, forthcoming*
+**5. Rest in Peace Post-Earnings Announcement Drift** *Critical Finance Review, 11 (2022), 613-646*
 [`CFR <https://cfr.pub/forthcoming/papers/martineau2021rest.pdf>`__]
 [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3111607>`__]
 [`SocArXiv <https://osf.io/preprints/socarxiv/z7k3p/>`__]
