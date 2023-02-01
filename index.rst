@@ -29,7 +29,7 @@ With `Jordi Mondria <http://individual.utoronto.ca/jmondria>`__ [`SSRN <https://
 
 **5. When Crowds Aren’t Wise: Biased Signals From Investor Social Networks and its Price Impact**
 
-With `Jordi Mondria <http://individual.utoronto.ca/jmondria>` and Edna Lopez Avila (Rotman PhD student)
+With `Jordi Mondria <http://individual.utoronto.ca/jmondria>`__ and Edna Lopez Avila (Rotman PhD student)
 
 
 Publications
