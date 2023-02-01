@@ -27,6 +27,10 @@ With `Oliver Boguth <http://www.public.asu.edu/~oboguth/>`__ and
 
 With `Jordi Mondria <http://individual.utoronto.ca/jmondria>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4194851>`__] [`SocArXiv <https://osf.io/preprints/socarxiv/ame2f/>`__]
 
+**5. When Crowds Aren’t Wise: Biased Signals From Investor Social Networks and its Price Impact**
+
+With `Jordi Mondria <http://individual.utoronto.ca/jmondria>` and Edna Lopez Avila (Rotman PhD student)
+
 
 Publications
 ~~~~~~~~~~~~
