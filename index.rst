@@ -74,7 +74,7 @@ With `Oliver Boguth <http://www.public.asu.edu/~oboguth/>`__ and
 Other contributions to research
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**1. Non-Standard Errors** 
+**1. Non-Standard Errors** *Journal of Finance, forthcoming*
 
 Dreber, A., Menkveld, A. J., Holzmeister, F., Johannesson, M., Huber, J., Kirchler, M., ... & Lajaunie, Q.
 
