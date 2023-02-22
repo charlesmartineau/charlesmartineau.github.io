@@ -76,8 +76,4 @@ Other contributions to research
 
 **1. Non-Standard Errors** *Journal of Finance, forthcoming*
 
-Dreber, A., Menkveld, A. J., Holzmeister, F., Johannesson, M., Huber, J., Kirchler, M., ... & Lajaunie, Q.
-
-I was a member of one of the 164 research teams in this very interesting paper, which included more than 300 co-authors.
-
-Working paper available on [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3961574>`__]
+Dreber, A., Menkveld, A. J., Holzmeister, F., Johannesson, M., Huber, J., Kirchler, M., ... & Lajaunie, Q. [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3961574>`__]
