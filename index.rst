@@ -18,9 +18,9 @@ With `Michael Hasler <https://sites.google.com/view/michaelhasler/home>`__ [`SSR
 
 With `Marius Zoican <https://www.mariuszoican.org/>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3376162>`__]
 
-**3. Noisy FOMC Returns** 
+**3. Price Informativness and FOMC Reversals** 
 
-With `Oliver Boguth <http://www.public.asu.edu/~oboguth/>`__ and
+With `Oliver Boguth <http://www.public.asu.edu/~oboguth/>`__, `Adlai FIsher <https://www.sauder.ubc.ca/Faculty/People/Faculty_Members/Fisher_Adlai>`__ and
 `Vincent Gregoire <http://www.vincentgregoire.com>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4131740>`__] [`SocArXiv <https://osf.io/preprints/socarxiv/zurfk/>`__]
 
 **4. News Selection and Asset Pricing**
