@@ -18,7 +18,7 @@ With `Michael Hasler <https://sites.google.com/view/michaelhasler/home>`__ [`SSR
 
 With `Marius Zoican <https://www.mariuszoican.org/>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3376162>`__]
 
-**3. Price Informativness and FOMC Reversals** 
+**3. Price Informativeness and FOMC Reversals** 
 
 With `Oliver Boguth <http://www.public.asu.edu/~oboguth/>`__, `Adlai FIsher <https://www.sauder.ubc.ca/Faculty/People/Faculty_Members/Fisher_Adlai>`__ and
 `Vincent Gregoire <http://www.vincentgregoire.com>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4131740>`__] [`SocArXiv <https://osf.io/preprints/socarxiv/zurfk/>`__]
@@ -74,4 +74,6 @@ Other contributions to research
 
 **1. Non-Standard Errors** *Journal of Finance, forthcoming*
 
-Dreber, A., Menkveld, A. J., Holzmeister, F., Johannesson, M., Huber, J., Kirchler, M., ... & Lajaunie, Q. [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3961574>`__]
+Dreber, A., Menkveld, A. J., Holzmeister, F., Johannesson, M., Huber, J., Kirchler, M., ... & Lajaunie, Q. [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3961574>`__] 
+
+[`Github <https://github.com/vgreg/earnings_news_jar>`__] code with `Vincent Gregoire <http://www.vincentgregoire.com>`__ for our team analysis
