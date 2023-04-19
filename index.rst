@@ -76,4 +76,4 @@ Other contributions to research
 
 Dreber, A., Menkveld, A. J., Holzmeister, F., Johannesson, M., Huber, J., Kirchler, M., ... & Lajaunie, Q. [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3961574>`__] 
 
-[`Github <https://github.com/vgreg/earnings_news_jar>`__] code with `Vincent Gregoire <http://www.vincentgregoire.com>`__ for our team analysis
+[`Github <https://github.com/vgreg/fincap>`__] code with `Vincent Gregoire <http://www.vincentgregoire.com>`__ for our team analysis
