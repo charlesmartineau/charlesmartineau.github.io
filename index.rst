@@ -23,9 +23,9 @@ With `Oliver Boguth <http://www.public.asu.edu/~oboguth/>`__, `Adlai FIsher <htt
 
 With `Jordi Mondria <http://individual.utoronto.ca/jmondria>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4194851>`__] [`SocArXiv <https://osf.io/preprints/socarxiv/ame2f/>`__]
 
-**4. When Crowds Aren’t Wise: Biased Signals From Investor Social Networks and its Price Impact**
+**4. When Crowds Aren't Wise: Biased Social Networks and its Price Impact**
 
-With `Jordi Mondria <http://individual.utoronto.ca/jmondria>`__ and `Edna Lopez Avila <https://sites.google.com/view/edna-lopez-avila/home>`__  (Rotman PhD student) 
+With `Jordi Mondria <http://individual.utoronto.ca/jmondria>`__ and `Edna Lopez Avila <https://sites.google.com/view/edna-lopez-avila/home>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4439793>`__]
 
 
 Publications
@@ -76,4 +76,4 @@ Other contributions to research
 
 Dreber, A., Menkveld, A. J., Holzmeister, F., Johannesson, M., Huber, J., Kirchler, M., ... & Lajaunie, Q. [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3961574>`__] 
 
-[`Github <https://github.com/vgreg/fincap>`__] code with `Vincent Gregoire <http://www.vincentgregoire.com>`__ for our team analysis
+`Vincent Gregoire <http://www.vincentgregoire.com>`__ and I were part of a team that was responsible for doing the data analysis and writing a summary paper. Our paper was one of the five best rated papers that were shared with all the teams in the last phase of the project. Our code is available on [`Github <https://github.com/vgreg/fincap>`__]
