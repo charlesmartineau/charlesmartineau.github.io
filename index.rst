@@ -33,7 +33,7 @@ Publications
 
 **1. Retail Trading and Analyst Coverage** *Journal of Financial Markets, forthcoming*
 
-With `Marius Zoican <https://www.mariuszoican.org/>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3376162>`__]
+With `Marius Zoican <https://www.mariuszoican.org/>`__ [`JFM <https://www.sciencedirect.com/science/article/abs/pii/S1386418123000472>`__] [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3376162>`__]
 
 **2. Explaining the Failure of the Unconditional CAPM with the Conditional CAPM** *Management Science,* 69, (2022), 1835-1855
 
