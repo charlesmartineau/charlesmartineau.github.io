@@ -10,22 +10,23 @@
 Working papers
 ~~~~~~~~~~~~~~
 
-**1. Equity Return Prediction with ICAPM**
 
-With `Michael Hasler <https://sites.google.com/view/michaelhasler/home>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3368264>`__]
-
-**2. Price Informativeness and FOMC Reversals** 
+**1. Noisy FOMC Returns: Information, Price Pressure, and Post-Announcement Reversals** 
 
 With `Oliver Boguth <http://www.public.asu.edu/~oboguth/>`__, `Adlai FIsher <https://www.sauder.ubc.ca/Faculty/People/Faculty_Members/Fisher_Adlai>`__ and
-`Vincent Gregoire <http://www.vincentgregoire.com>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4131740>`__] [`SocArXiv <https://osf.io/preprints/socarxiv/zurfk/>`__]
+`Vincent Gregoire <http://www.vincentgregoire.com>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4131740>`__] 
 
-**3. News Selection and Asset Pricing**
+**2. News Selection and Asset Pricing**
 
 With `Jordi Mondria <http://individual.utoronto.ca/jmondria>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4194851>`__] [`SocArXiv <https://osf.io/preprints/socarxiv/ame2f/>`__]
 
-**4. When Crowds Aren't Wise: Biased Social Networks and its Price Impact**
+**3. When Crowds Aren't Wise: Biased Social Networks and its Price Impact**
 
 With `Jordi Mondria <http://individual.utoronto.ca/jmondria>`__ and `Edna Lopez Avila <https://sites.google.com/view/edna-lopez-avila/home>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4439793>`__]
+
+**4. Equity Return Prediction with ICAPM** R&R RAPS
+
+With `Michael Hasler <https://sites.google.com/view/michaelhasler/home>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3368264>`__]
 
 
 Publications

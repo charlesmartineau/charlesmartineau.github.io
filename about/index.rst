@@ -12,7 +12,7 @@
     :alt: Charles Martineau
 
 
-About (Resume)
+About
 --------------
 I joined University of Toronto in July 2017 as assistant professor of finance at the Department of Management, University of Toronto Scarborough with a cross-appointment at the Rotman School of Management.
 
@@ -41,5 +41,5 @@ Supervised students
   <li>Kane Bae (Finance PhD, 2018-2024), committee member</li>
   <li>Edna Lopez (Finance PhD, 2018-2024), co-supervisor</li>
   <li>Stacey Cho (Accounting PhD, 2018-2023), committee member</li>
-  <li>Zohair Alem (Finance PhD, 2017-2023), co-supervisor</li>
+  <li>Zohair Alam (Finance PhD, 2017-2023), co-supervisor</li>
  
