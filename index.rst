@@ -32,7 +32,7 @@ With `Michael Hasler <https://sites.google.com/view/michaelhasler/home>`__ [`SSR
 Publications
 ~~~~~~~~~~~~
 
-**1. Retail Trading and Analyst Coverage** *Journal of Financial Markets, forthcoming*
+**1. Retail Trading and Analyst Coverage** *Journal of Financial Markets,* 66 (2023), 100848
 
 With `Marius Zoican <https://www.mariuszoican.org/>`__ [`JFM <https://www.sciencedirect.com/science/article/abs/pii/S1386418123000472>`__] [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3376162>`__]
 
