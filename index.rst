@@ -33,8 +33,6 @@ Information economics
 
   with `Oliver Boguth <http://www.public.asu.edu/~oboguth/>`__ and `Vincent Gregoire <http://www.vincentgregoire.com>`__ [`JFQA <https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/article/shaping-expectations-and-coordinating-attention-the-unintended-consequences-of-fomc-press-conferences/16DDD90630BA52EB81CCD88171998513>`__] [`SSRN <http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2698477>`__] [`Internet appendix <../FOMC_InternetAppendix.pdf>`__]
 
-  *Note:* From January 2019, the Chairman of the Federal Reserve will `now hold a press conference after each meeting <https://www.cnbc.com/2018/06/13/feds-powell-says-he-will-begin-press-conferences-following-each-meeting-starting-in-january.html>`__. A postscript at the end of the paper addresses this point.
-
 - **Macroeconomic Attention and Announcement Risk Premia** *Review of Financial Studies,* 2022
   
   with `Adlai Fisher <https://www.sauder.ubc.ca/Faculty/People/Faculty_Members/Fisher_Adlai>`__ and `Jinfei Sheng <https://merage.uci.edu/research-faculty/faculty-directory/Jinfei-Sheng.html>`__ [`RFS <https://academic.oup.com/rfs/advance-article/doi/10.1093/rfs/hhac011/6535733>`__] [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2703978>`__] [`Internet appendix <https://www.dropbox.com/s/sf4k8hi0ig8db69/MAI_Internet_Appendix_v7.pdf?dl=0>`__] [`MAI data <https://github.com/charlesmartineau/mai_rfs>`__]
@@ -68,7 +66,7 @@ General asset pricing
   with `Michael Hasler <https://sites.google.com/view/michaelhasler/home>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3368264>`__]
 
 Other contributions to research
--------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - **Non-Standard Errors** *Journal of Finance, forthcoming*
   
