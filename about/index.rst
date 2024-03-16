@@ -40,6 +40,6 @@ Supervised students
   <li>Zigang Li (Finance PhD, 2021-2026), committee member</li>
   <li>Kane Bae (Finance PhD, 2019-2024), committee member</li>
   <li>Edna Lopez (Finance PhD, 2019-2024), co-supervisor</li>
-  <li>Stacey Cho (Accounting PhD, 2019-2023), committee member</li>
-  <li>Zohair Alam (Finance PhD, 2018-2023), co-supervisor</li>
+  <li>Stacey Choy (Accounting PhD, 2019-2023), committee member, placement: UIUC</li>
+  <li>Zohair Alam (Finance PhD, 2018-2023), co-superviso, placement: McMaster University</li>
  
