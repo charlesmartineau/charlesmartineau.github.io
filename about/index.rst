@@ -14,7 +14,7 @@
 
 About
 --------------
-I joined University of Toronto in July 2017 as assistant professor of finance at the Department of Management, University of Toronto Scarborough with a cross-appointment at the Rotman School of Management. I am also the <p><a href="https://www.rotman.utoronto.ca/FacultyAndResearch/ResearchCentres/FinHub" class="btn btn-default btn-lg btn-block">FinHub (Finhub)</a></p> Associate Research Director. 
+I joined University of Toronto in July 2017 as assistant professor of finance at the Department of Management, University of Toronto Scarborough with a cross-appointment at the Rotman School of Management. I am also the `FinHub <https://www.rotman.utoronto.ca/FacultyAndResearch/ResearchCentres/FinHub>`__ Associate Research Director. 
 
 .. container::
 
@@ -40,5 +40,5 @@ Supervised students
   <li>Kane Bae (Finance PhD, 2019-2024), committee member</li>
   <li>Edna Lopez (Finance PhD, 2019-2024), co-supervisor</li>
   <li>Stacey Choy (Accounting PhD, 2019-2023), committee member, placement: UIUC</li>
-  <li>Zohair Alam (Finance PhD, 2018-2023), co-superviso, placement: McMaster University</li>
+  <li>Zohair Alam (Finance PhD, 2018-2023), co-supervisor, placement: McMaster University</li>
  
