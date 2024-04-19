@@ -61,9 +61,9 @@ General asset pricing
   
   with `Michael Hasler <https://sites.google.com/view/michaelhasler/home>`__ [`MS <https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.4381>`__] [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3353903>`__] [`Internet Appendix <https://www.dropbox.com/s/wpk7995l3ituw29/capm_internet_appendix.pdf?dl=0>`__]
 
-- **Equity Return Prediction with ICAPM** *Review of Asset Pricing Studies,* forthcoming
+- **Equity Return Prediction with ICAPM** *Review of Asset Pricing Studies,* 2024
   
-  with `Michael Hasler <https://sites.google.com/view/michaelhasler/home>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3368264>`__]
+  with `Michael Hasler <https://sites.google.com/view/michaelhasler/home>`__ [`RAPS <https://academic.oup.com/raps/advance-article-abstract/doi/10.1093/rapstu/raae007/7630489?redirectedFrom=fulltext>`__] [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3368264>`__] 
 
 Other contributions to research
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
