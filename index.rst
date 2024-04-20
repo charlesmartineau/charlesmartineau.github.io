@@ -70,6 +70,6 @@ Other contributions to research
 
 - **Non-Standard Errors** *Journal of Finance, forthcoming*
   
-  Dreber, A., Menkveld, A. J., Holzmeister, F., Johannesson, M., Huber, J., Kirchler, M., ... & Lajaunie, Q. [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3961574>`__] 
+  Dreber, A., Menkveld, A. J., Holzmeister, F., Johannesson, M., Huber, J., Kirchler, M., ... & Lajaunie, Q. [`JF <https://onlinelibrary.wiley.com/doi/full/10.1111/jofi.13337>`__] [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3961574>`__] 
   
   `Vincent Gregoire <http://www.vincentgregoire.com>`__ and I were part of a team that was responsible for doing the data analysis and writing a summary paper. Our paper was one of the five best rated papers that were shared with all the teams in the last phase of the project. Our code is available on [`Github <https://github.com/vgreg/fincap>`__]
