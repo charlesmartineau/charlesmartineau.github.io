@@ -19,7 +19,7 @@ With `Oliver Boguth <http://www.public.asu.edu/~oboguth/>`__, `Adlai Fisher <htt
 
 With `Jordi Mondria <http://individual.utoronto.ca/jmondria>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4194851>`__]
 
-**Social Media Noise: Return Reversal, Informativeness, and Market Efficiency Around Earnings Announcements**
+**Social Media Noise: Return Reversal, Informativeness, and Price Efficiency Around Earnings Announcements**
 
 With `Jordi Mondria <http://individual.utoronto.ca/jmondria>`__ and `Edna Lopez Avila <https://sites.google.com/view/edna-lopez-avila/home>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4439793>`__]
 
