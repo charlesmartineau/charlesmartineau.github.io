@@ -19,7 +19,7 @@ With `Oliver Boguth <http://www.public.asu.edu/~oboguth/>`__, `Adlai Fisher <htt
 
 With `Jordi Mondria <http://individual.utoronto.ca/jmondria>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4194851>`__]
 
-**Social Media Noise: Return Reversal, Informativeness, and Price Efficiency Around Earnings Announcements**
+**Social Media and the Distortion of Price Informativeness: Evidence from Earnings Announcements**
 
 With `Jordi Mondria <http://individual.utoronto.ca/jmondria>`__ and `Edna Lopez Avila <https://sites.google.com/view/edna-lopez-avila/home>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4439793>`__]
 
@@ -68,7 +68,7 @@ General asset pricing
 Other contributions to research
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- **Non-Standard Errors** *Journal of Finance, forthcoming*
+- **Non-Standard Errors** *Journal of Finance,* 2024
   
   Dreber, A., Menkveld, A. J., Holzmeister, F., Johannesson, M., Huber, J., Kirchler, M., ... & Lajaunie, Q. [`JF <https://onlinelibrary.wiley.com/doi/full/10.1111/jofi.13337>`__] [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3961574>`__] 
   
