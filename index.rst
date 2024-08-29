@@ -19,7 +19,7 @@ With `Oliver Boguth <http://www.public.asu.edu/~oboguth/>`__, `Adlai Fisher <htt
 
 With `Jordi Mondria <http://individual.utoronto.ca/jmondria>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4194851>`__]
 
-**Social Media and the Distortion of Price Informativeness: Evidence from Earnings Announcements**
+**Social Media-Driven Noise Trading: Liquidity Provision and Price Revelation Ahead of Earnings Announcements**
 
 With `Jordi Mondria <http://individual.utoronto.ca/jmondria>`__ and `Edna Lopez Avila <https://sites.google.com/view/edna-lopez-avila/home>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4439793>`__]
 
