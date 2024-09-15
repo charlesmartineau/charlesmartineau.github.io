@@ -17,7 +17,7 @@ With `Oliver Boguth <http://www.public.asu.edu/~oboguth/>`__, `Adlai Fisher <htt
 
 **News Selection and Asset Pricing**
 
-With `Jordi Mondria <http://individual.utoronto.ca/jmondria>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4194851>`__]
+With `Jordi Mondria <http://individual.utoronto.ca/jmondria>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4194851>`__] R&R at MS.
 
 **Social Media-Driven Noise Trading: Liquidity Provision and Price Revelation Ahead of Earnings Announcements**
 
