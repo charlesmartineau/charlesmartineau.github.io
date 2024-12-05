@@ -19,9 +19,14 @@ With `Oliver Boguth <http://www.public.asu.edu/~oboguth/>`__, `Adlai Fisher <htt
 
 With `Jordi Mondria <http://individual.utoronto.ca/jmondria>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4194851>`__] R&R at MS.
 
-**Social Media-Driven Noise Trading: Liquidity Provision and Price Revelation Ahead of Earnings Announcements**
+**Social Media and the Distortion of Price Revelation**
 
 With `Jordi Mondria <http://individual.utoronto.ca/jmondria>`__ and `Edna Lopez Avila <https://sites.google.com/view/edna-lopez-avila/home>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4439793>`__]
+
+**Understanding the Excess Bond Premia**
+
+A FinHub collaboration project with Kevin Benson, Ing-Haw Cheng, John Hull, Yoshio Nozawa, Vasily Strela, Yuntao Wu, and Jun Yuan
+[`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5037810>`__]
 
 Publications
 ~~~~~~~~~~~~
