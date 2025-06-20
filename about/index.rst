@@ -42,3 +42,6 @@ Supervised students
   <li>Stacey Choy (Accounting PhD, 2019-2023), committee member, placement: UIUC</li>
   <li>Zohair Alam (Finance PhD, 2018-2023), co-supervisor, placement: McMaster University</li>
  
+Random stuff
+-------------------
+`My favorite records <https://www.dropbox.com/scl/fi/203pkbhd8rpf8mu7wdvi8/favorite_records.png?rlkey=v58vjg8alepvnl06vylj245vg&dl=0>`__
