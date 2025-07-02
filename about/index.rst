@@ -45,3 +45,4 @@ Supervised students
 Random stuff
 -------------------
 `My favorite records <https://www.dropbox.com/scl/fi/203pkbhd8rpf8mu7wdvi8/favorite_records.png?rlkey=v58vjg8alepvnl06vylj245vg&dl=0>`__
+`My favorite movies <https://www.dropbox.com/scl/fi/jmg8xlmythxpl98xi16bf/favorite_movies.png?rlkey=9htgxor0um0yevl07w0rohaku&dl=0>`__
