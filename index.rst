@@ -13,7 +13,7 @@ Working papers
 **Noisy FOMC Returns? Information, Price Pressure, and Post-Announcement Reversals** 
 
 With `Oliver Boguth <http://www.public.asu.edu/~oboguth/>`__, `Adlai Fisher <https://www.sauder.ubc.ca/Faculty/People/Faculty_Members/Fisher_Adlai>`__ and
-`Vincent Gregoire <http://www.vincentgregoire.com>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4131740>`__] R&R at RFS.
+`Vincent Gregoire <http://www.vincentgregoire.com>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4131740>`__]
 
 **News Selection and Asset Pricing**
 
