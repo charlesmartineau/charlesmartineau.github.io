@@ -47,7 +47,7 @@ Information economics
   with `Pat Akey <https://www.patakeyfinance.com/>`__ and `Vincent Gregoire <http://www.vincentgregoire.com>`__ [`JFE <https://www.sciencedirect.com/science/article/pii/S0304405X21005237?via%3Dihub>`__] [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3365024>`__] [`SocArXiv <https://osf.io/preprints/socarxiv/qe6tu/>`__]
   Media coverage: `Bloomberg <https://www.bloomberg.com/news/articles/2019-04-22/the-market-knew-about-the-press-release-hackers-before-the-cops>`__, `Columbia Law School Blog <http://clsbluesky.law.columbia.edu/2019/07/10/price-revelation-from-insider-trading-evidence-from-hacked-earnings-news/>`__
 
-- **Rest in Peace Post-Earnings Announcement Drift** *Critical Finance Review*, 2022 [`CFR <https://cfr.pub/forthcoming/papers/martineau2021rest.pdf>`__] [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3111607>`__] [`Internet appendix <../CFR_Internet_Appendix_v1.pdf>`__]
+- **Rest in Peace Post-Earnings Announcement Drift** *Critical Finance Review*, 2022 [`CFR <https://www.nowpublishers.com/article/Details/CFR-0122>`__] [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3111607>`__] [`Internet appendix <../CFR_Internet_Appendix_v1.pdf>`__]
 
 - **How is Earnings News Transmitted to Stock Prices?** *Journal of Accounting Research,* 2022
   
@@ -57,7 +57,9 @@ Information economics
   
   with `Marius Zoican <https://www.mariuszoican.org/>`__ [`JFM <https://www.sciencedirect.com/science/article/abs/pii/S1386418123000472>`__] [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3376162>`__]
 
+- **Extracting the Structure of Press Releases for Predicting Earnings Announcement Returns** *Proceedings of the 6th ACM International Conference on AI in Finance (Singapore) (ICAIF 2025),* 2025
 
+  with Yuntao Wu, Ege Mert Akin, `Vincent Gregoire <http://www.vincentgregoire.com>`__ , and `Andreas Veneris <https://www.ece.utoronto.ca/people/veneris-a/>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5537559>`__]
 
 General asset pricing
 ---------------------
@@ -66,7 +68,7 @@ General asset pricing
   
   with `Michael Hasler <https://sites.google.com/view/michaelhasler/home>`__ [`MS <https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.4381>`__] [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3353903>`__] [`Internet Appendix <https://www.dropbox.com/s/wpk7995l3ituw29/capm_internet_appendix.pdf?dl=0>`__]
 
-- **Equity Return Prediction with ICAPM** *Review of Asset Pricing Studies,* 2024
+- **Equity Return Prediction with ICAPM** *Review of Asset Pricing Studies,* 2024**
   
   with `Michael Hasler <https://sites.google.com/view/michaelhasler/home>`__ [`RAPS <https://academic.oup.com/raps/advance-article-abstract/doi/10.1093/rapstu/raae007/7630489?redirectedFrom=fulltext>`__] [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3368264>`__] 
 
