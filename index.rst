@@ -23,7 +23,7 @@ With `Jordi Mondria <http://individual.utoronto.ca/jmondria>`__ [`SSRN <https://
 
 With `Jordi Mondria <http://individual.utoronto.ca/jmondria>`__ and `Edna Lopez Avila <https://sites.google.com/view/edna-lopez-avila/home>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4439793>`__]
 
-**Understanding the Excess Bond Premia**
+**The Attention-Based Excess Bond Premium**
 
 A FinHub collaboration project with Kevin Benson, Ing-Haw Cheng, John Hull, Yoshio Nozawa, Vasily Strela, Yuntao Wu, and Jun Yuan
 [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5037810>`__]
@@ -57,9 +57,9 @@ Information economics
   
   with `Marius Zoican <https://www.mariuszoican.org/>`__ [`JFM <https://www.sciencedirect.com/science/article/abs/pii/S1386418123000472>`__] [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3376162>`__]
 
-- **Extracting the Structure of Press Releases for Predicting Earnings Announcement Returns** *Proceedings of the 6th ACM International Conference on AI in Finance (Singapore) (ICAIF 2025),* 2025
+- **Extracting the Structure of Press Releases for Predicting Earnings Announcement Returns** *Proceedings of the 6th ACM International Conference on AI in Finance (ICAIF), Singapore,* 2025
 
-  with Yuntao Wu, Ege Mert Akin, `Vincent Gregoire <http://www.vincentgregoire.com>`__ , and `Andreas Veneris <https://www.ece.utoronto.ca/people/veneris-a/>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5537559>`__]
+  with Yuntao Wu, Ege Mert Akin, `Vincent Gregoire <http://www.vincentgregoire.com>`__ , and `Andreas Veneris <https://www.ece.utoronto.ca/people/veneris-a/>`__ [`ACM <https://dl.acm.org/doi/10.1145/3768292.3770344>`__] [`ArXiv <https://arxiv.org/abs/2509.24254>`__][`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5537559>`__]
 
 General asset pricing
 ---------------------
@@ -68,7 +68,7 @@ General asset pricing
   
   with `Michael Hasler <https://sites.google.com/view/michaelhasler/home>`__ [`MS <https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.4381>`__] [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3353903>`__] [`Internet Appendix <https://www.dropbox.com/s/wpk7995l3ituw29/capm_internet_appendix.pdf?dl=0>`__]
 
-- **Equity Return Prediction with ICAPM** *Review of Asset Pricing Studies,* 2024**
+- **Equity Return Prediction with ICAPM** *Review of Asset Pricing Studies,* 2024
   
   with `Michael Hasler <https://sites.google.com/view/michaelhasler/home>`__ [`RAPS <https://academic.oup.com/raps/advance-article-abstract/doi/10.1093/rapstu/raae007/7630489?redirectedFrom=fulltext>`__] [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3368264>`__] 
 
@@ -80,3 +80,4 @@ Other contributions to research
   Dreber, A., Menkveld, A. J., Holzmeister, F., Johannesson, M., Huber, J., Kirchler, M., ... & Lajaunie, Q. [`JF <https://onlinelibrary.wiley.com/doi/full/10.1111/jofi.13337>`__] [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3961574>`__] 
   
   `Vincent Gregoire <http://www.vincentgregoire.com>`__ and I were part of a team that was responsible for doing the data analysis and writing a summary paper. Our paper was one of the five best rated papers that were shared with all the teams in the last phase of the project. Our code is available on [`Github <https://github.com/vgreg/fincap>`__]
+
