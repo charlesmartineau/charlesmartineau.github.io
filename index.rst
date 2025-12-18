@@ -25,8 +25,12 @@ With `Jordi Mondria <http://individual.utoronto.ca/jmondria>`__ and `Edna Lopez 
 
 **The Attention-Based Excess Bond Premium**
 
-A FinHub collaboration project with Kevin Benson, Ing-Haw Cheng, John Hull, Yoshio Nozawa, Vasily Strela, Yuntao Wu, and Jun Yuan
+A `FinHub <https://www.rotman.utoronto.ca/faculty-and-research/research-centres/finhub/>`__ collaboration with Ing-Haw Cheng, John Hull, Yoshio Nozawa, Yuntao Wu, and from RBC New York Kevin Benson, Vasily Strela, and Jun Yuan.
 [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5037810>`__]
+
+**Measuring Price Effects of Multilingual Global News with Large Language Models**
+A `FinHub <https://www.rotman.utoronto.ca/faculty-and-research/research-centres/finhub/>`__ collaboration with Ing-Haw Cheng, John Hull, Yoshio Nozawa, Yuntao Wu, and from RBC New York Kevin Benson, Maurice Granger, Vasily Strela, and Jun Yuan.
+[`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5825343>`__]
 
 Publications
 ~~~~~~~~~~~~
