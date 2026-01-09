@@ -59,7 +59,7 @@ Information economics
 
 - **Retail Trading and Analyst Coverage** *Journal of Financial Markets,* 2023
   
-  with `Marius Zoican <https://www.mariuszoican.org/>`__ [`JFM <https://www.sciencedirect.com/science/article/abs/pii/S1386418123000472>`__] [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3376162>`__]
+  with `Marius Zoican <https://www.mariuszoican.com/>`__ [`JFM <https://www.sciencedirect.com/science/article/abs/pii/S1386418123000472>`__] [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3376162>`__]
 
 - **Extracting the Structure of Press Releases for Predicting Earnings Announcement Returns** *Proceedings of the 6th ACM International Conference on AI in Finance (ICAIF), Singapore,* 2025
 
