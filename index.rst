@@ -77,7 +77,7 @@ General asset pricing
   with `Michael Hasler <https://sites.google.com/view/michaelhasler/home>`__ [`RAPS <https://academic.oup.com/raps/advance-article-abstract/doi/10.1093/rapstu/raae007/7630489?redirectedFrom=fulltext>`__] [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3368264>`__] 
 
 Other contributions to research
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------------------
 
 - **Non-Standard Errors** *Journal of Finance,* 2024
   
