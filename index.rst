@@ -10,6 +10,10 @@
 Working papers
 ~~~~~~~~~~~~~~
 
+**Who Wins and Who Loses In Prediction Markets? Evidence from Polymarket**
+
+with `Pat Akey <https://www.patakeyfinance.com/>`__, `Vincent Gregoire <http://www.vincentgregoire.com>`__, and Nicolas Harvie [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6443103>`__]
+
 **Noisy FOMC Returns? Information, Price Pressure, and Post-Announcement Reversals** 
 
 With `Oliver Boguth <http://www.public.asu.edu/~oboguth/>`__, `Adlai Fisher <https://www.sauder.ubc.ca/Faculty/People/Faculty_Members/Fisher_Adlai>`__ and
