@@ -25,7 +25,7 @@ With `Jordi Mondria <http://individual.utoronto.ca/jmondria>`__ [`SSRN <https://
 
 **Social Media and the Distortion of Price Revelation**
 
-With `Jordi Mondria <http://individual.utoronto.ca/jmondria>`__ and `Edna Lopez Avila <https://sites.google.com/view/edna-lopez-avila/home>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4439793>`__]
+With `Jordi Mondria <http://individual.utoronto.ca/jmondria>`__ and `Edna Lopez Avila <https://sites.google.com/view/edna-lopez-avila/home>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4439793>`__] R&R at MS.
 
 **The Attention-Based Excess Bond Premium**
 

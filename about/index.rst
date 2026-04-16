@@ -14,7 +14,7 @@
 
 About
 --------------
-I joined University of Toronto in July 2017 as assistant professor of finance at the Department of Management, University of Toronto Scarborough with a cross-appointment at the Rotman School of Management. I am also the `FinHub <https://www.rotman.utoronto.ca/FacultyAndResearch/ResearchCentres/FinHub>`__ Associate Research Director. 
+I joined University of Toronto in July 2017 as assistant professor of finance at the Department of Management, University of Toronto Scarborough with a cross-appointment at the Rotman School of Management. I was promoted to associate professor in July 2025. I am also the `FinHub <https://www.rotman.utoronto.ca/FacultyAndResearch/ResearchCentres/FinHub>`__ Associate Research Director. 
 
 .. container::
 
