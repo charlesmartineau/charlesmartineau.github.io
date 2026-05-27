@@ -24,7 +24,7 @@ We also include the 3-day average (column MAI3) and the 3-day detrended MAI-Pre 
 
 If you use this data, please cite our study accordingly:
 
-Fisher, Martineau, and Sheng (2022), Macroeconomic Attention and Announcement Risk Premia, *Review of Financial Studies, Forthcoming*
+Fisher, Martineau, and Sheng (2022), Macroeconomic Attention and Announcement Risk Premia, *Review of Financial Studies*
 
 .. image:: ../all_mai_c1.jpg
     :alt: mai

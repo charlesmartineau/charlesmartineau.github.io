@@ -12,7 +12,7 @@ Working papers
 
 **Who Wins and Who Loses In Prediction Markets? Evidence from Polymarket**
 
-with `Pat Akey <https://www.patakeyfinance.com/>`__, `Vincent Gregoire <http://www.vincentgregoire.com>`__, and Nicolas Harvie [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6443103>`__]
+with `Pat Akey <https://www.patakeyfinance.com/>`__, `Vincent Gregoire <http://www.vincentgregoire.com>`__, and Nicolas Harvie [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6443103>`__] Data for this paper is available on Hugging Face: `Polymarket data <https://huggingface.co/datasets/vgregoire/polymarket-users>`__
 
 **Noisy FOMC Returns? Information, Price Pressure, and Post-Announcement Reversals** 
 
