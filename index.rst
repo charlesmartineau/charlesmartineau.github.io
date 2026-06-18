@@ -30,7 +30,7 @@ With `Jordi Mondria <http://individual.utoronto.ca/jmondria>`__ and `Edna Lopez 
 **The Attention-Based Excess Bond Premium**
 
 A `FinHub <https://www.rotman.utoronto.ca/faculty-and-research/research-centres/finhub/>`__ collaboration with Ing-Haw Cheng, John Hull, Yoshio Nozawa, Yuntao Wu, and from RBC New York Kevin Benson, Vasily Strela, and Jun Yuan.
-[`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5037810>`__]
+[`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5037810>`__] R&R at RFS.
 
 **Measuring Price Effects of Multilingual Global News with Large Language Models**
 A `FinHub <https://www.rotman.utoronto.ca/faculty-and-research/research-centres/finhub/>`__ collaboration with Ing-Haw Cheng, John Hull, Yoshio Nozawa, Yuntao Wu, and from RBC New York Kevin Benson, Maurice Granger, Vasily Strela, and Jun Yuan.
@@ -65,9 +65,6 @@ Information economics
   
   with `Marius Zoican <https://www.mariuszoican.com/>`__ [`JFM <https://www.sciencedirect.com/science/article/abs/pii/S1386418123000472>`__] [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3376162>`__]
 
-- **Extracting the Structure of Press Releases for Predicting Earnings Announcement Returns** *Proceedings of the 6th ACM International Conference on AI in Finance (ICAIF), Singapore,* 2025
-
-  with Yuntao Wu, Ege Mert Akin, `Vincent Gregoire <http://www.vincentgregoire.com>`__ , and `Andreas Veneris <https://www.ece.utoronto.ca/people/veneris-a/>`__ [`ACM <https://dl.acm.org/doi/10.1145/3768292.3770344>`__] [`ArXiv <https://arxiv.org/abs/2509.24254>`__][`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5537559>`__]
 
 General asset pricing
 ---------------------
@@ -80,12 +77,27 @@ General asset pricing
   
   with `Michael Hasler <https://sites.google.com/view/michaelhasler/home>`__ [`RAPS <https://academic.oup.com/raps/advance-article-abstract/doi/10.1093/rapstu/raae007/7630489?redirectedFrom=fulltext>`__] [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3368264>`__] 
 
+Computer engineering and data science
+-------------------------------------
+
+- **Extracting the Structure of Press Releases for Predicting Earnings Announcement Returns** *Proceedings of the 6th ACM International Conference on AI in Finance (ICAIF), Singapore,* 2025
+
+  with Yuntao Wu, Ege Mert Akin, `Vincent Gregoire <http://www.vincentgregoire.com>`__ , and `Andreas Veneris <https://www.ece.utoronto.ca/people/veneris-a/>`__ [`ACM <https://dl.acm.org/doi/10.1145/3768292.3770344>`__] [`ArXiv <https://arxiv.org/abs/2509.24254>`__][`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5537559>`__]
+
+- **MeatPy: A Python Framework for Limit Order Book Reconstruction and Analysis**, *Journal of Open Source Software*, 2026
+
+  with `Vincent Gregoire <http://www.vincentgregoire.com>`__ [`JOSS <https://joss.theoj.org/papers/10.21105/joss.10480>`__] [`GitHub Repo <https://github.com/vgreg/MeatPy>`__] 
+
+
 Other contributions to research
 -------------------------------
 
-- **Non-Standard Errors** *Journal of Finance,* 2024
+- **Non-Standard Errors**, *Journal of Finance,* 2024
   
   Dreber, A., Menkveld, A. J., Holzmeister, F., Johannesson, M., Huber, J., Kirchler, M., ... & Lajaunie, Q. [`JF <https://onlinelibrary.wiley.com/doi/full/10.1111/jofi.13337>`__] [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3961574>`__] 
   
-  `Vincent Gregoire <http://www.vincentgregoire.com>`__ and I were part of a team that was responsible for doing the data analysis and writing a summary paper. Our paper was one of the five best rated papers that were shared with all the teams in the last phase of the project. Our code is available on [`Github <https://github.com/vgreg/fincap>`__]
+  `Vincent Gregoire <http://www.vincentgregoire.com>`__ and I were part of a team that was responsible for doing the data analysis and writing a summary paper. Our paper was one of the five best rated papers that were shared with all the teams in the last phase of the project. Our code is available on [`GitHub <https://github.com/vgreg/fincap>`__]
 
+- **Narrative monetary policy uncertainty**, *BIS: IFC Satellite Seminar on “Granular data: new horizons and challenges for central banks,* 2023
+
+  with Zissi Poulos, Yuntao Wu, Cameron Thompson, Maryam Haghighi, Jun Yuan, John Hull. [`BIS <https://www.bis.org/ifc/publ/ifcb61_07.pdf>`__] 
