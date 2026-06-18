@@ -82,7 +82,7 @@ Computer engineering and data science
 
 - **Extracting the Structure of Press Releases for Predicting Earnings Announcement Returns** *Proceedings of the 6th ACM International Conference on AI in Finance (ICAIF), Singapore,* 2025
 
-  with Yuntao Wu, Ege Mert Akin, `Vincent Gregoire <http://www.vincentgregoire.com>`__ , and `Andreas Veneris <https://www.ece.utoronto.ca/people/veneris-a/>`__ [`ACM <https://dl.acm.org/doi/10.1145/3768292.3770344>`__] [`ArXiv <https://arxiv.org/abs/2509.24254>`__][`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5537559>`__]
+  with Yuntao Wu, Ege Mert Akin, `Vincent Gregoire <http://www.vincentgregoire.com>`__ , and `Andreas Veneris <https://www.ece.utoronto.ca/people/veneris-a/>`__ [`ACM <https://dl.acm.org/doi/10.1145/3768292.3770344>`__] [`ArXiv <https://arxiv.org/abs/2509.24254>`__][`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5537559>`__] Data and resources available on [`Structure of Earnings News <https://structure-earnings-news.com/>`__]
 
 - **MeatPy: A Python Framework for Limit Order Book Reconstruction and Analysis**, *Journal of Open Source Software*, 2026
 
