@@ -14,23 +14,23 @@ Working papers
 
 with `Pat Akey <https://www.patakeyfinance.com/>`__, `Vincent Gregoire <http://www.vincentgregoire.com>`__, and Nicolas Harvie [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6443103>`__] Data for this paper is available on Hugging Face: `Polymarket data <https://huggingface.co/datasets/vgregoire/polymarket-users>`__
 
-**Noisy FOMC Returns? Information, Price Pressure, and Post-Announcement Reversals** 
+**Noisy FOMC Returns? Information, Price Pressure, and Post-Announcement Reversals** R&R at JFQA.
 
 With `Oliver Boguth <http://www.public.asu.edu/~oboguth/>`__, `Adlai Fisher <https://www.sauder.ubc.ca/Faculty/People/Faculty_Members/Fisher_Adlai>`__ and
 `Vincent Gregoire <http://www.vincentgregoire.com>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4131740>`__]
 
-**News Selection and Asset Pricing**
+**News Selection and Asset Pricing** R&R at MS.
 
-With `Jordi Mondria <http://individual.utoronto.ca/jmondria>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4194851>`__] R&R at MS.
+With `Jordi Mondria <http://individual.utoronto.ca/jmondria>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4194851>`__] 
 
-**Social Media and the Distortion of Price Revelation**
+**Social Media and the Distortion of Price Revelation** R&R at MS.
 
-With `Jordi Mondria <http://individual.utoronto.ca/jmondria>`__ and `Edna Lopez Avila <https://sites.google.com/view/edna-lopez-avila/home>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4439793>`__] R&R at MS.
+With `Jordi Mondria <http://individual.utoronto.ca/jmondria>`__ and `Edna Lopez Avila <https://sites.google.com/view/edna-lopez-avila/home>`__ [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4439793>`__] 
 
-**The Attention-Based Excess Bond Premium**
+**The Attention-Based Excess Bond Premium** R&R at RFS.
 
 A `FinHub <https://www.rotman.utoronto.ca/faculty-and-research/research-centres/finhub/>`__ collaboration with Ing-Haw Cheng, John Hull, Yoshio Nozawa, Yuntao Wu, and from RBC New York Kevin Benson, Vasily Strela, and Jun Yuan.
-[`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5037810>`__] R&R at RFS.
+[`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5037810>`__] 
 
 **Measuring Price Effects of Multilingual Global News with Large Language Models**
 A `FinHub <https://www.rotman.utoronto.ca/faculty-and-research/research-centres/finhub/>`__ collaboration with Ing-Haw Cheng, John Hull, Yoshio Nozawa, Yuntao Wu, and from RBC New York Kevin Benson, Maurice Granger, Vasily Strela, and Jun Yuan.
