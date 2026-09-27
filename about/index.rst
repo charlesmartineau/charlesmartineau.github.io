@@ -10,6 +10,7 @@
 
 .. image:: ../photo.jpg
     :alt: Charles Martineau
+    :width: 200px
 
 
 About

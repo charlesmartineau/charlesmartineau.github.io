@@ -101,3 +101,10 @@ Other contributions to research
 - **Narrative monetary policy uncertainty**, *BIS: IFC Satellite Seminar on “Granular data: new horizons and challenges for central banks,* 2023
 
   with Zissi Poulos, Yuntao Wu, Cameron Thompson, Maryam Haghighi, Jun Yuan, John Hull. [`BIS <https://www.bis.org/ifc/publ/ifcb61_07.pdf>`__] 
+
+Newspaper articles
+------------------
+
+- **Put plainly, prediction markets are not for you**, *The Globe and Mail,* 2026
+
+  with `Marius Zoican <https://www.mariuszoican.com/>`__ [`Globe and Mail <https://www.theglobeandmail.com/business/commentary/article-put-plainly-prediction-markets-are-not-for-you/>`__]
