@@ -32,6 +32,13 @@ Empirical asset pricing with emphasis on information economics.
   <li><i class="fa fa-fw fa-google"></i> <a href="https://scholar.google.com/citations?user=UHyBP8wAAAAJ&hl=en">Google Scholar</a></li>
   <li><i class="fa fa-fw fa-copy" aria-hidden="true"></i> <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1789818">[My SSRN page]</a></li>
 
+Advisory
+--------
+I regularly advise regulators, financial institutions, and media on prediction markets, market microstructure, and financial NLP, drawing on my published research in these areas.
+
+- **Media inquiries and academic collaboration:** always happy to talk.
+- **Structured briefings or ongoing advisory work** for financial institutions and regulatory bodies: available on a consulting basis. Get in touch to discuss.
+
 Supervised students
 -------------------
 
