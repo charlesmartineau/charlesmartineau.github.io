@@ -36,6 +36,11 @@ A `FinHub <https://www.rotman.utoronto.ca/faculty-and-research/research-centres/
 A `FinHub <https://www.rotman.utoronto.ca/faculty-and-research/research-centres/finhub/>`__ collaboration with Ing-Haw Cheng, John Hull, Yoshio Nozawa, Yuntao Wu, and from RBC New York Kevin Benson, Maurice Granger, Vasily Strela, and Jun Yuan.
 [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5825343>`__]
 
+**Trades, Quotes, and Price Discovery in Prediction Markets**
+
+with `Pat Akey <https://www.patakeyfinance.com/>`__, `Vincent Gregoire <http://www.vincentgregoire.com>`__, and Nicolas Harvie [`SSRN <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7547106>`__]
+
+
 Publications
 ~~~~~~~~~~~~
 
@@ -107,4 +112,4 @@ Newspaper articles
 
 - **Put plainly, prediction markets are not for you**, *The Globe and Mail,* 2026
 
-  with `Marius Zoican <https://www.mariuszoican.com/>`__ [`Globe and Mail <https://www.theglobeandmail.com/business/commentary/article-put-plainly-prediction-markets-are-not-for-you/>`__]
+  with `Marius Zoican <https://www.mariuszoican.com/>`__ [`Globe and Mail <https://www.theglobeandmail.com/business/commentary/article-put-plainly-prediction-markets-are-not-for-you/>`__] [`Print <https://www.dropbox.com/scl/fi/o46rzjmz03loc7quf7xdy/globe_oped.png?rlkey=gs64das3d2ib1fbfsaizl57i1&dl=0>`__]
